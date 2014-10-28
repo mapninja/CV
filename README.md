@@ -40,7 +40,7 @@ ____
 ____
 
 ####Geographic Information Systems Specialist & Instruction Coordinator - Yale University Library Map Department
-#####Sept 2010 - Present
+#####Sept 2010 - Jan 2015
  * Creation, coordination and teaching of The Yale Map Department's Geospatial Technology Instruction Program
  * Administration of Esri, Google Earth/Maps and CartoDB Enterprise Education Site Licenses
  * Coordination of student and full-time staff on departmental projects
@@ -55,16 +55,14 @@ ____
 
 ####Geographic Information Systems Assistant & Instruction Specialist - Yale University Library Map Department
 #####Aug 2005 - Sept 2010
- * Creation, coordination and teaching of THe Yale Map Department's Geospatial Technology Instruction Program
+ * Creation, coordination and teaching of The Yale Map Department's Geospatial Technology Instruction Program
  * Technical support for the use of GIS and Geotech in research and teaching
  * Collaboration in Faculty research & curriculum development
- * Research GIS Infrastructure Administration, including System and database administration of 8 distinct server systems  
+ * Research GIS Infrastructure Administration, including System and Database Administration
 
 #### Research Assistant / Teaching Assistant - University of Texas at Dallas
 
 #####Aug 2003 to Aug 2005  
-#####Dr. Kevin Curtin curtin@gmu.edu  
-
  * Planning and execution of various research projects  
  * GIS software (ESRI) support and instruction  
  * Creation, editing and maintenance of geographic data sets in several formats  
@@ -80,14 +78,13 @@ ____
  
 ####Owner/Manager Skin&Bones
 #####June 1989 – Sept 2003 
- 
- * Nearly 15 years of Supervisory/Managerial experience
+ * 15 years of Supervisory/Managerial experience in a Small Business (8-15 	employees) environment
  * Human resources, payroll, budget planning and implementation
  * Licensing and government oversight requirement fulfilment
  * Customer relations, sales
  * Vendor relations, purchasing
  * Advertising and promotion strategy, design and copy
- * Webmaster  
+ * Web-master  
  
 ____
 ###Education
@@ -153,13 +150,15 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
   A pilot to test the utility and feasibility of a project to digitize, georeference, mosaic and make accessible the Yale Map Department's collection of Sanborn Fire Insurance Maps, and similar series. For the pilot, I took previously digitized images of the 1911 Atlas of New Haven, georeferenced, mosaicked and tilecached them using, primarily, Esri-based tools. I then published the map series as a tile service using Esri's ArcGIS Online for Organization's hosted service capabilities and JavaScript Map Application Templates. The application incorporated responsive design and can leverage GPS location on mobile devices for use in the field. THe application is currently used by the University Librarian as a demonstration of innovative transformations of Library Collections for supporting research and teaching, 
 ____
 ###Talks & Consulting
+####NEARC Education Users Conference Keynote, Mystic, CT. Oct 2015
+  "A Little Bit of Code Can Go a Long Way!" How learning __about__ code can give non-programming GIS Specialists superpowers
 ####Nature Conservancy, NYC. July 2014
-  Taught a day-long workshop with NYC Nature Conservancy Interns on the design, implementation and use of a Tree Survey System based upon ArcGIS Online and Collector for ArcGIS. The project established the infrastructure for an ongoing survey of trees in Prospect Park. Facilitator: Rachel Holmes - rholmes@TNC.ORG
+  Taught a day-long workshop with NYC Nature Conservancy Interns on the design, implementation and use of a Tree Survey System based upon ArcGIS Online and Collector for ArcGIS. The project established the infrastructure for an ongoing survey of trees in Prospect Park. 
 
 ####"Making Spatial Decisions with Remote Sensing" Workshop. Geotech Conference. Dallas, TX. Feb 2014.
   Taught a 3-hour Remote Sensing with ArcGIS Imagery Analyst workshop for High School students and K-12 Educators.
 
-####“Tales of a Geospatial Swiss Army Knife”  "Spatial Analysis with ArcGIS" workshop. at Geotech Conference. Dallas, TX. March 2013 
+####“Tales of a Geospatial Swiss Army Knife” & "Spatial Analysis with ArcGIS" workshop. at Geotech Conference. Dallas, TX. March 2013 
   Taught a 3-hour Spatial Analysis workshop, using John Snow's 1854 Cholera Map as a base dataset. Also presented my work supporting archaeological investigation in Tell Leilan, Syria, Martha's Vineyard and Mongolia.
   
   
