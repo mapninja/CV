@@ -10,7 +10,7 @@ ____
   To allow researchers, scholars and do-gooders to do more meaningful work by helping them investigate, quantify and solve spatial problems with technology, and to be always doing something at least moderately amazing
 ____
 ####Skills 
- * Over 15 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 9 spent as Yale University's Geospatial Swiss Army Knife.
+ * Over 18 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 9 spent as Yale University's Geospatial Swiss Army Knife.
  * Expertise in a broad range of geospatial and supporting software and hardware, including:
   * The entire Esri GIS Software Ecosystem, including ArcGIS Desktop, ArcExplorer, ArcGIS for Server, ArcSDE, ArcPad, Collector for ArcGIS, ArcGIS for Android, ArcGIS for iOS, ArcGIS Online for Organizations, koop, and even ArcIMS.
   * A variety of other GIS and related software platforms, including (but not limited to) Google Earth Pro, QGIS, OpenGeoportal, Geoserver, TileMill, GDAL, DNRGPS, ENVI
