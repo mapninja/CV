@@ -93,7 +93,7 @@ ____
  * http://foss4geo.wordpress.com/2014/08/10/announcing-the-new-qgis-academy/
 
 ####Google Geo for Higher Ed Summit, July 22-24, 2013
- * Various Workshops and panels familiarizing participants with the Google Geo Platforms, including:
+ * Various Workshops and panels familiarizing participants with the Google  Geo Platforms, including:
   * Google Earth Pro
   * Google Maps Engine Lite
   * Google Maps Engine
@@ -138,9 +138,9 @@ A Continuing project to map the more than 30k street trees in The City of New Ha
 ####Photogrammar
 [photogrammar.yale.edu](http://photogrammar.yale.edu/)  
 Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51421-11)  
-   "The Photogrammar Project is a Yale University Public Humanities Project designed to offer an interactive web-based open source visualization platform for the one-hundred and sixty thousand photographs created by the federal government from 1935 to 1943 under the Farm Securities Administration and Office of War Information (FSA-OWI)." 
+   "The Photogrammar Project is a Yale University Public Humanities Project designed to offer an interactive web-based open source visualization   platform for the one-hundred and sixty thousand photographs created by the federal government from 1935 to 1943 under the Farm Securities Administration and Office of War Information (FSA-OWI)." 
    
-  Working closely with other members of the Photogrammar Team, I have been responsible for the creation and management of the geospatial data for the project. This has included geocoding ninety thousand images (~5000 unique locations) using various geocoding platforms and APIs. THe bulk of the geocoding work was done using Tulane University's Geolocate API, through Google/OpenRefine. Work also included the attachment of location information to the existing collection metadata and association with historic county boundary data, using SQL, for visualization in the CartoDB platform. 
+  Working closely with other members of the Photogrammar Team, I have been responsible for the creation and management of the geospatial data for the project. This has included geocoding ninety thousand images (~5000 unique locations) using various geocoding platforms and APIs. The bulk of the geocoding work was done using Tulane University's Geolocate API, through Google/OpenRefine. Work also included the attachment of location information to the existing collection metadata and association with historic county boundary data, using SQL, for visualization in the CartoDB platform. 
 
 ####Hilltop Cemetery Investigation
   Under the direction of Yale Law School professor, Richard Brooks, I led a non-invasive archaeological investigation of the historic Hilltop Cemetery at Chappaquidick Island, MA. In order to evaluate the  orientation of graves contemporaneous with that of Capt. William Martin, ground penetrating radar survey(GPR), kite aerial photography and total station survey were performed over the course of three days. I was responsible for all aspects of field data collection on the project, from operation and maintenance of GPR equipment to post-survey processing of all data, production of maps and and analysis of grave orientation.
