@@ -38,8 +38,18 @@ ____
 
 ###Experience
 ____
+####Geospatial Manager 
+###Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
+#####Jan 2015-Present
+* Head of the Stanford Geospatial Center, a center that supports nearly 1,000 students and faculty with over 100 workshops, class lectures, and presentations per year and nearly 6,000 one-on-one reference consultations via email, phone and in-person
+* Sustain and strengthen the GIS program as the primary provider of GIS-based services, research consultation, and user education to Stanford University (SU) students, faculty and staff from all departments across campus
+* Oversee the work of the Geospatial Reference and Instruction Specialist as well as numerous hourly and student workers
+* Designs and deliver instruction to geospatial users, assisting in the integration of geospatial skills into the curriculum
+* Collaborate with library staff and faculty members to develop and implement new directions and long-range plans for improving the provision of geospatial services including: creation of curriculum-specific teaching materials and workshops for different disciplines; providing outreach and support services to the main and branch libraries, and providing GIS support specifically for the upcoming David Rumsey Map Center; Working in collaboration with the programmers of the Digital Library Systems and Services group (DLSS) and the Scientific Metadata Librarian on the development of the library's geospatial discovery environment, GeoBlacklight
+* Support the geospatial operations in Branner Library, which include: selecting GIS software, data, hardware and peripherals; training and supervising a student staff person to assist with geospatial services and Website maintenance; managing campus-wide GIS software licenses; and maintaining high-performance computing resources, dedicated to GIS  
 
-####Geographic Information Systems Specialist & Instruction Coordinator - Yale University Library Map Department
+####Geographic Information Systems Specialist & Instruction Coordinator
+###Yale University Library Map Department
 #####Sept 2010 - Jan 2015
  * Creation, coordination and teaching of The Yale Map Department's Geospatial Technology Instruction Program
  * Administration of Esri, Google Earth/Maps and CartoDB Enterprise Education Site Licenses
@@ -132,6 +142,10 @@ ____
 ____
 ###Selected Projects 
 
+####Outbreak Responder
+The Outbreak Responder is a decision-support and epidemiology platform for use during diarrheal disease outbreaks. There are two components. The first component is a rehydration calculator that automates World Health Organization guidelines for how to assess and rehydrate a patient with diarrheal disease. The calculator is designed to be used in 30 seconds and does not require an account or connectivity. The second component is intended for the Outbreak Response Team that may include epidemiologists, public health administrators, and clinicians. This component requires a login/ password. Patients are organized in a registry with icons that designate disease severity. Each patient record contains basic demographic, clinical, laboratory, and geospatial data. All aspects of the platform are encrypted and secure to industry standard. Data are visualized on a secure dashboard that helps administrators optimize resource allocation during rapidly evolving outbreaks. The dashboard also helps clinicians improve the quality of care delivered at the bedside. The design leverages geospatial mapping to identify critical actionable data. Outbreak Responder is designed for use in developing countries with high diarrheal disease burden. It was built by an international team of clinical and computer science experts led by Eric Nelson MD PhD at Stanford University.
+
+
 ####The Urban Resource Initiative New Haven Street Tree Survey 
 A Continuing project to map the more than 30k street trees in The City of New Haven. Initial conceived as a field data collection exercise for the Urban segment of The Yale School of Forestry's 3-week graduate orientation, "MODS," this is an ongoing survey, now in it's 6th year. The project's core is an ArcSDE/MSSQL database of the 30k tree "locations" and more than 70k inventory records associated with them. As software platforms have evolved and suitable hardware has become ubiquitous, the project has gone from using a small suite of Trimble Juno units with ArcPad's "Check-in/Check-out" methods, to now creating feature services from ArcGIS for Server, through ArcGIS Online for Organizations, and be deployed for offline editing through Collector for ArcGIS on iOS and Android. The latest iteration of the project has made it possible for students to use their own equipment to survey, without incurring cellular data costs, and freeing the project from the cost of purchasing and maintaining equipment.
 
@@ -190,6 +204,7 @@ ____
 
 ____
 ###Publications
+ * Nelson EJ, Andrews JR, Maples S, Barry M, Clemens JD (2015) **Is a Cholera Outbreak Preventable in Post-earthquake Nepal?** PLoS Negl Trop Dis 9(8): e0003961. doi:10.1371/journal.pntd.0003961
  * **_Southeast Asia_** [map]. Scale not given. In: Joshua Barker. _Figures of Southeast Asian Modernity_. University of Hawaii Press, 2013, p.7  
  * **_A Guide to Boston for "Insuring the City"_** [map]. Scale not given. In: Elihu Rubin. _Insuring the City: The Prudential Center and the Postwar Urban Landscape_. Yale University Press, 2012, p.front endpapers  
  * **_The Prudential Center and Massachusetts Turnpike in Regional Context_** [map]. Scale not given. In: Elihu Rubin. _Insuring the City: The Prudential Center and the Postwar Urban Landscape_. Yale University Press, 2012, p.back endpapers  
