@@ -1,5 +1,5 @@
 ##Stacey D. Maples
-**GIS Specialist, Instructor, Evangelist & Geospatial Swiss Army Knife**  
+**Location-Based Technologies Expert, Instructor, Evangelist & Geospatial Swiss Army Knife**  
 stacey.maples@gmail.com  
 @mapninja
 ____
@@ -36,10 +36,10 @@ ____
  * Expertise in the administration, distribution and management of enterprise GIS software and services in an academic and research environment
  * Expertise and particular enthusiasm for supporting field data collection in remote and challenging environments
 
-###Experience
+###Professional Experience
 ____
-####Geospatial Manager 
-###Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
+###Geospatial Manager 
+####Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
 #####Jan 2015-Present
 * Head of the Stanford Geospatial Center, a center that supports nearly 1,000 students and faculty with over 100 workshops, class lectures, and presentations per year and nearly 6,000 one-on-one reference consultations via email, phone and in-person
 * Sustain and strengthen the GIS program as the primary provider of GIS-based services, research consultation, and user education to Stanford University (SU) students, faculty and staff from all departments across campus
@@ -48,8 +48,8 @@ ____
 * Collaborate with library staff and faculty members to develop and implement new directions and long-range plans for improving the provision of geospatial services including: creation of curriculum-specific teaching materials and workshops for different disciplines; providing outreach and support services to the main and branch libraries, and providing GIS support specifically for the upcoming David Rumsey Map Center; Working in collaboration with the programmers of the Digital Library Systems and Services group (DLSS) and the Scientific Metadata Librarian on the development of the library's geospatial discovery environment, GeoBlacklight
 * Support the geospatial operations in Branner Library, which include: selecting GIS software, data, hardware and peripherals; training and supervising a student staff person to assist with geospatial services and Website maintenance; managing campus-wide GIS software licenses; and maintaining high-performance computing resources, dedicated to GIS  
 
-####Geographic Information Systems Specialist & Instruction Coordinator
-###Yale University Library Map Department
+###Geographic Information Systems Specialist & Instruction Coordinator
+####Yale University Library Map Department
 #####Sept 2010 - Jan 2015
  * Creation, coordination and teaching of The Yale Map Department's Geospatial Technology Instruction Program
  * Administration of Esri, Google Earth/Maps and CartoDB Enterprise Education Site Licenses
@@ -63,15 +63,16 @@ ____
  * Management of digitization workflows
  * Management and circulation of GPS and field data collection equipment collection
 
-####Geographic Information Systems Assistant & Instruction Specialist - Yale University Library Map Department
+###Geographic Information Systems Assistant & Instruction Specialist  
+####Yale University Library Map Department
 #####Aug 2005 - Sept 2010
  * Creation, coordination and teaching of The Yale Map Department's Geospatial Technology Instruction Program
  * Technical support for the use of GIS and Geotech in research and teaching
  * Collaboration in Faculty research & curriculum development
  * Research GIS Infrastructure Administration, including System and Database Administration
 
-#### Research Assistant / Teaching Assistant - University of Texas at Dallas
-
+### Research Assistant / Teaching Assistant  
+####University of Texas at Dallas
 #####Aug 2003 to Aug 2005  
  * Planning and execution of various research projects  
  * GIS software (ESRI) support and instruction  
@@ -86,7 +87,8 @@ ____
   * Transportation & Logistics  
   * Internet Mapping with ArcIMS 
  
-####Owner/Manager Skin&Bones
+###Owner/Manager 
+####Skin&Bones
 #####June 1989 – Sept 2003 
  * 15 years of Supervisory/Managerial experience in a Small Business (8-15 	employees) environment
  * Human resources, payroll, budget planning and implementation
