@@ -115,7 +115,7 @@ Seminar exploring the intersection of geospatial and location-based technologies
 ####GIS for Archaeology, Yale University. Co-taught with Dr. William Honeychurch
 An introductory level credit course in applications of Geographic Information Systems and location based technologies in archaeological investigation and research. 
 ####Geophysical Prospecting Methods for Archaeology, Yale University. Co-taught with William Honeychurch.
-The applicaiton of various geophysiscal prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Megnetic Methods, Ground Penetrating Radar, data fusion and interpretation. 
+The applicaiton of various geophysiscal prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Magnetic Methods, Ground Penetrating Radar, data fusion and interpretation. 
 ####The Yale Map Department GIS Workshop Series, 2005-2014.
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests.
 ####GeoTech, Bishop Dunne High School, Dallas, TX. 2010-present.
@@ -190,7 +190,7 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
 
 ####Digital Atlas of New Haven Application  
 [Digital Atlas of New Haven](http://bit.ly/digitalnewhaven)  
-  A pilot to test the utility and feasibility of a project to digitize, georeference, mosaic and make accessible the Yale Map Department's collection of Sanborn Fire Insurance Maps, and similar series. For the pilot, I took previously digitized images of the 1911 Atlas of New Haven, georeferenced, mosaicked and tilecached them using, primarily, Esri-based tools. I then published the map series as a tile service using Esri's ArcGIS Online for Organization's hosted service capabilities and JavaScript Map Application Templates. The application incorporated responsive design and can leverage GPS location on mobile devices for use in the field. THe application is currently used by the University Librarian as a demonstration of innovative transformations of Library Collections for supporting research and teaching, 
+  A pilot to test the utility and feasibility of a project to digitize, georeference, mosaic and make accessible the Yale Map Department's collection of Sanborn Fire Insurance Maps, and similar series. For the pilot, I took previously digitized images of the 1911 Atlas of New Haven, georeferenced, mosaicked and tilecached them using, primarily, Esri-based tools. I then published the map series as a tile service using Esri's ArcGIS Online for Organization's hosted service capabilities and JavaScript Map Application Templates. The application incorporated responsive design and can leverage GPS location on mobile devices for use in the field. The application is currently used by the University Librarian as a demonstration of innovative transformations of Library Collections for supporting research and teaching, 
 ____
 ###Talks & Consulting
 ####NEARC Education Users Conference Keynote, Mystic, CT. Oct 2015
@@ -206,8 +206,8 @@ ____
   
   
 ####"Charting Vanishing Voices" Workshop - World Oral Literature Project at Cambridge, UK. June 2012 
-  Invited to accompany Yale faculty member Dr Mark Turin to Cambridge, UK, for a two-day collaborative workshop in June 2012 bringing together scholars, digital archivists and international organizations to share experiences of mapping ethno-linguistic diversity using interactive digital technologies.
-  My presentation focused on the difficulty of expressing uncertainties in mapping textual localities associated with ethno-linguistic collections. Having provided an overview of the process of "Geocoding," as well as standards for determining locations and spatial uncertainties when applying spatial referencing to text-based descriptions associated with collections, I highlighted recent more innovative work in fields concerned with biodiversity.
+  Invited to accompany Yale faculty member Dr Mark Turin to Cambridge, UK, for a two-day collaborative workshop in June 2012 bringing together scholars, digital archivists and international organizations to share experiences of mapping ethnolinguistic diversity using interactive digital technologies.
+  My presentation focused on the difficulty of expressing uncertainties in mapping textual localities associated with ethnolinguistic collections. Having provided an overview of the process of "Geocoding," as well as standards for determining locations and spatial uncertainties when applying spatial referencing to text-based descriptions associated with collections, I highlighted recent more innovative work in fields concerned with biodiversity.
 
 ####Crossing Domains: Digital Collection Sharing Among Museums and Libraries at The International Center of Photography, NYC. April 2012
   Co-presenter with Dr. Laura Wexler, presenting the NEH Start-up Grant funded Yale Photogrammar Project. I discussed and demonstrated methods for geocoding large collections of text-based localities using various APIs and open source software. 
@@ -227,7 +227,7 @@ ____
 ####“Supporting GIS in Research and Education at Yale.” at The Geography Geoseminar: University of Connecticut Department of Geography.  Storrs, CT. May, 2009. 
   Overview of GIS and Geospatial technology support for research and teaching at Yale University.
 
-####“GIS Technologies for K-12 Classrooms.” at Geography Action! Mapping the Americas. Yale University's MacMillian Center. October, 2008.
+####“GIS Technologies for K-12 Classrooms.” at Geography Action! Mapping the Americas. Yale University's MacMillan Center. October, 2008.
 
 ####“GIS Technology for Emergency Preparedness.” at Addressing the Needs of Diverse Populations in Community Preparedness Efforts Conference. Sponsored by The Yale Center for Public Health Preparedness. New Haven, CT. April 2008 
 
