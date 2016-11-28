@@ -10,7 +10,7 @@ ____
   To allow researchers, scholars and do-gooders to do more meaningful work by helping them investigate, quantify and solve spatial problems with technology, and to be always doing something at least moderately amazing
 ____
 ####Skills 
- * Over 18 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 9 spent as Yale University's Geospatial Swiss Army Knife.
+ * Over 20 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 9 spent as Yale University's Geospatial Swiss Army Knife.
  * Expertise in a broad range of geospatial and supporting software and hardware, including:
   * The entire Esri GIS Software Ecosystem, including ArcGIS Desktop, ArcExplorer, ArcGIS for Server, ArcSDE, ArcPad, Collector for ArcGIS, ArcGIS for Android, ArcGIS for iOS, ArcGIS Online for Organizations, koop, and even ArcIMS.
   * A variety of other GIS and related software platforms, including (but not limited to) Google Earth Pro, QGIS, OpenGeoportal, Geoserver, TileMill, GDAL, DNRGPS, ENVI
@@ -97,10 +97,39 @@ ____
  * Web-master  
  
 ____
+###Teaching Experience
+####Wrigley Field Program in Hawaii, Stanford School of Earth, Energy & Environmental Sciences, 2016  
+
+Created and delivered content for a 3-day Spatial Anaysis Module for the Wrigley Field Program, November 2016. Four components, including: An Introduction to Spatial Analysis; Geoprocessing and Spatial Data Carpentry; Imagery Analysis; and Field Data Collection. Data acquisition support from DigitalGlobe. 
+
+####Stanford Summer Research College (SRC), 2015-present
+Created and delivered content for a 3-day Spatial Analysis Bootcamp, using ArcGIS Suite of software, and including: An Introduction to GIS with ArcGIS, Geoprocessing with ArcGIS, Data Creation Workflows with ArcGIS, and Field Data Collection with ArcGIS. 
+
+####The Stanford Geospatial Center GIS Workshop Series, 2015-present
+An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests. 
+
+####MODS Summer Graduate Student Orientation Program, Yale School of Foresty & Environmental Studies, 2006-2014
+Applied GIS for Urban Forestry applications including field data collection, management and analysis, using the ongoing and Urban Resource Initiative's New Haven Street Tree Survey. Students are oriented to the technology stack used (currently ArcGIS Server and Collector for ArcGIS based), trained and deployed for street tree survey field data collection, then provided instruction in the management and analysis of collected data. 
+#### Geospatial Law & Policy, Yale Law School, 2010. Co-taught with Dr. Richard Brooks. 
+Seminar exploring the intersection of geospatial and location-based technologies, and the legal system. Guest lectures included: Pete Schreiber, Esri General Counsel; Mikel Maron, mapgive.state.gov and OSM Foundation; Dr. Scott Edwards, Project Manager, Science for Human Rights, Amnesty International.
+####GIS for Archaeology, Yale University. Co-taught with Dr. William Honeychurch
+An introductory level credit course in applications of Geographic Information Systems and location based technologies in archaeological investigation and research. 
+####Geophysical Prospecting Methods for Archaeology, Yale University. Co-taught with William Honeychurch.
+The applicaiton of various geophysiscal prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Megnetic Methods, Ground Penetrating Radar, data fusion and interpretation. 
+####The Yale Map Department GIS Workshop Series, 2005-2014.
+An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests.
+####GeoTech, Bishop Dunne High School, Dallas, TX. 2010-present.
+Attendee/Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. 
+
 ###Education
 
-####QGIS Academy, DelMar College, Currently Enrolled
+####SCRUM Product Owner Certification, Stanford University, Nov 2016
+
+####QGIS Academy, DelMar College
  * http://foss4geo.wordpress.com/2014/08/10/announcing-the-new-qgis-academy/
+
+####Google Geo for Good Summit, July 2016
+####Google Earth Engine Summit, May 2016
 
 ####Google Geo for Higher Ed Summit, July 22-24, 2013
  * Various Workshops and panels familiarizing participants with the Google  Geo Platforms, including:
