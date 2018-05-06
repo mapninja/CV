@@ -9,9 +9,9 @@ ____
 #### Objective
   To allow researchers, scholars and do-gooders to do more meaningful work by helping them investigate, quantify and solve spatial problems with technology, and to be always doing something at least moderately amazing
 ____
-#### Skills 
+#### Expertise 
  * Over 20 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 9 spent as Yale University's Geospatial Swiss Army Knife.
- * Expertise in a broad range of geospatial and supporting software and hardware, including:  
+ * Expertise in a broad range of geospatial and supporting software and hardware 
   * QGIS, the entire Esri GIS Software Ecosystem, Google Earth Pro, OpenGeoportal, Geoserver, GDAL, DNRGPS, ENVI
   * Web-based GIS platforms, APIs and services, including Google Maps, Google Maps APIs, Google Earth Engine, Carto, Mapbox, OpenStreetMap, GeoCommons, Geojson.io, MapShaper.org, OpenMapquest API,  Geolocate API, OpenLayers, Leaflet.js and more
   * Development and scripting languages, including Python, JavaScript and Unix Shell 
