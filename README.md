@@ -1,7 +1,10 @@
 ## Stace D. Maples
 **Location-Based Technologies Expert, Spatial Educator, Evangelist, Habitual Tinkerer, Lifetime Learner & Geospatial Swiss Army Knife**  
-stacey.maples@gmail.com  
-@mapninja
+[stacey.maples@gmail.com](mailto:stacey.maples@gmail.com)  
+[@mapninja](https://twitter.com/mapninja)  
+[https://github.com/mapninja](https://github.com/mapninja)  
+[https://github.com/StanfordGeospatialCenter](https://github.com/StanfordGeospatialCenter)  
+[http://library.stanford.edu/research/stanford-geospatial-center](http://library.stanford.edu/research/stanford-geospatial-center)
 ____
 ### References
   On Request
@@ -10,10 +13,10 @@ ____
   To allow researchers, scholars and do-gooders to do more meaningful work by helping them investigate, quantify and solve spatial problems with technology, and to be always doing something at least moderately amazing
 ____
 ### Expertise 
- * Over 20 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 9 spent as Yale University's Geospatial Swiss Army Knife.
+ * Over 20 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 3 spent as Stanford University's Geospatial Swiss Army Knife, the previous 10 at Yale University.
  * Expertise in a broad range of geospatial and supporting software and hardware 
-  * QGIS, the entire Esri GIS Software Ecosystem, Google Earth Pro, OpenGeoportal, Geoserver, GDAL, DNRGPS, ENVI
-  * Web-based GIS platforms, APIs and services, including Google Maps, Google Maps APIs, Google Earth Engine, Carto, Mapbox, OpenStreetMap, GeoCommons, Geojson.io, MapShaper.org, OpenMapquest API,  Geolocate API, OpenLayers, Leaflet.js and more
+  * QGIS, the entire Esri GIS Software Ecosystem, OpenGeoportal, Geoblacklight, Geoserver, GDAL, DNRGPS, ENVI, etc...
+  * Web-based GIS platforms, APIs and services, including Google Earth Engine, Carto, Mapbox, OpenStreetMap, OpenLayers, Leaflet.js, etc...
   * Development and scripting languages, including Python, JavaScript and Unix Shell 
   * Operating systems, including OSX, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, and RHEL
   * Application and database platforms, including Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL, PostGIS
@@ -35,16 +38,6 @@ ____
  * Expertise in supporting high level use of spatial data, technology and methods in research and teaching
  * Expertise in the administration, distribution and management of enterprise GIS software and services in an academic and research environment
  * Expertise and particular enthusiasm for supporting field data collection in remote and challenging environments  
-
-### Relevant Links 
-
-[https://github.com/mapninja](https://github.com/mapninja)  
-[https://github.com/StanfordGeospatialCenter](https://github.com/StanfordGeospatialCenter)  
-[https://github.com/OpenIndexMaps](https://github.com/OpenIndexMaps)  
-[http://library.stanford.edu/research/stanford-geospatial-center](http://library.stanford.edu/research/stanford-geospatial-center)
-
-
-
 
 ### Professional Experience
 ____
@@ -133,7 +126,7 @@ Created and delivered content for a 3-day Spatial Analysis Module for the Wrigle
 Created and delivered content for a 3-day Spatial Analysis Bootcamp, using ArcGIS Suite of software, and including: An Introduction to GIS with ArcGIS, Geoprocessing with ArcGIS, Data Creation Workflows with ArcGIS, and Field Data Collection with ArcGIS. 
 
 #### The Stanford Geospatial Center GIS Workshop Series, 2015-present
-An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests. 
+An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either QGIS, ArcGIS, ArcGIS Pro or R Studio depending on user needs and interests. 
 
 #### MODS Summer Graduate Student Orientation Program, Yale School of Forestry & Environmental Studies, 2006-2014
 Applied GIS for Urban Forestry applications including field data collection, management and analysis, using the ongoing and Urban Resource Initiative's New Haven Street Tree Survey. Students are oriented to the technology stack used (currently ArcGIS Server and Collector for ArcGIS based), trained and deployed for street tree survey field data collection, then provided instruction in the management and analysis of collected data. 
