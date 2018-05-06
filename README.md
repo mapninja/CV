@@ -34,15 +34,15 @@ ____
    * Sub-Surface remote sensing techniques, software and hardware, including Ground Penetrating Radar, Magnetometry and Electric Resistivity 
    * Archaeological excavation and survey data collection methods
    * Kite and Balloon Aerial Photography techniques (I come with my own IR/RGB aerial rig)  
- * Expertise in planning, implementation and management of long-term GIS projects  
- * Expertise in designing and implementing integrated, multi-user geospatial field data collection systems 
- * Expertise in digitization of cartographic materials, including rare and physically sensitive collections
- * Expertise in cartography for research and scholarly publication
- * Expertise in writing technical content
- * Expertise in designing and delivering GIS training programs
- * Expertise in supporting high level use of spatial data, technology and methods in research and teaching
- * Expertise in the administration, distribution and management of enterprise GIS software and services in an academic and research environment
- * Expertise and particular enthusiasm for supporting field data collection in remote and challenging environments  
+ * Planning, implementation and management of long-term GIS projects  
+ * Designing and implementing integrated, multi-user geospatial field data collection systems 
+ * Digitization of cartographic materials, including rare and physically sensitive collections
+ * Cartography for research and scholarly publication
+ * Writing technical content
+ * Designing and delivering GIS training programs
+ * Supporting high level use of spatial data, technology and methods in research and teaching
+ * Administration, distribution and management of enterprise GIS software and services in an academic and research environment
+ * Particular enthusiasm for supporting field data collection in remote and challenging environments  
 
 ### Professional Experience
 ____
@@ -119,14 +119,14 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
 ____
 ### Teaching Experience
 #### GeoTech, Bishop Dunne High School, Dallas, TX. 2010-present.
-Attendee/Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. 
+Attendee/Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. Honestly one of the favorite things I do.
 
-#### Big Earth Data - Winter Quarter 2018
-
+#### EARTH 1B: Know Your Planet: Big Earth, Stanford University - Winter Quarter 2018
+Foundations of "Big Earth" data, including public and private-sector Earth imaging services, crowd-sourced global-scale geospatial data, trajectory and data streams. Visualization as analysis, 
 
 #### Wrigley Field Program in Hawaii, Stanford School of Earth, Energy & Environmental Sciences, 2016  
 
-Created and delivered content for a 3-day Spatial Analysis Module for the Wrigley Field Program, November 2016. Four components, including: An Introduction to Spatial Analysis; Geoprocessing and Spatial Data Carpentry; Imagery Analysis; and Field Data Collection. Data acquisition support from DigitalGlobe. 
+Created and delivered content for a 3-day QGIS Spatial Analysis Module for the Wrigley Field Program, November 2016. Four components, including: An Introduction to Spatial Analysis; Geoprocessing and Spatial Data Carpentry; Imagery Analysis; and Field Data Collection. Data acquisition support from DigitalGlobe. 
 
 #### Stanford Summer Research College (SRC), 2015-present
 Created and delivered content for a 3-day Spatial Analysis Bootcamp, using ArcGIS Suite of software, and including: An Introduction to GIS with ArcGIS, Geoprocessing with ArcGIS, Data Creation Workflows with ArcGIS, and Field Data Collection with ArcGIS. 
