@@ -1,4 +1,4 @@
-## Stacey D. Maples
+## Stace D. Maples
 **Location-Based Technologies Expert, Spatial Educator, Evangelist, Habitual Tinkerer, Lifetime Learner & Geospatial Swiss Army Knife**  
 stacey.maples@gmail.com  
 @mapninja
@@ -20,7 +20,7 @@ ____
   * Web markup, application platforms and data formats, including HTML, PHP, JavaScript, XML, Markdown, (Geo)JSON, KML, GML and others
   * Consumer grade GPS Equipment, including extensive experience with Garmin and Trimble units
   * Survey grade mapping equipment, including Dual-Signal GNSS/GPS systems, RTK GPS Systems and total station survey equipment
-  * Mobile Phone/Tablet hardware and software management, including Android, iPhone, ADB, sideloading, unlocking and rooting techniques
+  * Mobile Phone/Tablet hardware and software management, including Android, iPhone, ADB, side-loading, unlocking and rooting techniques
   * Android and iOS data collection software, systems and strategies for field data collection, including XForms/XLSForms based systems (ODK, Survey123, EpiCollect5, etc...)
   * Multimedia editing and production.
   * Sub-Surface remote sensing techniques, software and hardware, including Ground Penetrating Radar, Magnetometry and Electric Resistivity 
@@ -111,7 +111,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
 ##### June 1989 – Sept 2003 
  * 15 years of Supervisory/Managerial experience in a Small Business (8-15 	employees) environment
  * Human resources, payroll, budget planning and implementation
- * Licensing and government oversight requirement fulfilment
+ * Licensing and government oversight requirement fulfillment
  * Customer relations, sales
  * Vendor relations, purchasing
  * Advertising and promotion strategy, design and copy
@@ -127,7 +127,7 @@ Attendee/Instructor. Introductory level workshop topics for K-12 teachers to hel
 
 #### Wrigley Field Program in Hawaii, Stanford School of Earth, Energy & Environmental Sciences, 2016  
 
-Created and delivered content for a 3-day Spatial Anaysis Module for the Wrigley Field Program, November 2016. Four components, including: An Introduction to Spatial Analysis; Geoprocessing and Spatial Data Carpentry; Imagery Analysis; and Field Data Collection. Data acquisition support from DigitalGlobe. 
+Created and delivered content for a 3-day Spatial Analysis Module for the Wrigley Field Program, November 2016. Four components, including: An Introduction to Spatial Analysis; Geoprocessing and Spatial Data Carpentry; Imagery Analysis; and Field Data Collection. Data acquisition support from DigitalGlobe. 
 
 #### Stanford Summer Research College (SRC), 2015-present
 Created and delivered content for a 3-day Spatial Analysis Bootcamp, using ArcGIS Suite of software, and including: An Introduction to GIS with ArcGIS, Geoprocessing with ArcGIS, Data Creation Workflows with ArcGIS, and Field Data Collection with ArcGIS. 
@@ -135,7 +135,7 @@ Created and delivered content for a 3-day Spatial Analysis Bootcamp, using ArcGI
 #### The Stanford Geospatial Center GIS Workshop Series, 2015-present
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests. 
 
-#### MODS Summer Graduate Student Orientation Program, Yale School of Foresty & Environmental Studies, 2006-2014
+#### MODS Summer Graduate Student Orientation Program, Yale School of Forestry & Environmental Studies, 2006-2014
 Applied GIS for Urban Forestry applications including field data collection, management and analysis, using the ongoing and Urban Resource Initiative's New Haven Street Tree Survey. Students are oriented to the technology stack used (currently ArcGIS Server and Collector for ArcGIS based), trained and deployed for street tree survey field data collection, then provided instruction in the management and analysis of collected data. 
 #### Geospatial Law & Policy, Yale Law School, 2010. Co-taught with Dr. Richard Brooks. 
 Seminar exploring the intersection of geospatial and location-based technologies, and the legal system. Guest lectures included: Pete Schreiber, Esri General Counsel; Mikel Maron, mapgive.state.gov and OSM Foundation; Dr. Scott Edwards, Project Manager, Science for Human Rights, Amnesty International.
