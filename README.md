@@ -20,20 +20,20 @@ ____
 ### Expertise 
  * Over 20 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 3 spent as Stanford University's Geospatial Swiss Army Knife, the previous 10 at Yale University.
  * Expertise in a broad range of geospatial and supporting software and hardware 
-  * QGIS, the entire Esri GIS Software Ecosystem, OpenGeoportal, Geoblacklight, Geoserver, GDAL, DNRGPS, ENVI, etc...
-  * Web-based GIS platforms, APIs and services, including Google Earth Engine, Carto, Mapbox, OpenStreetMap, OpenLayers, Leaflet.js, etc...
-  * Development and scripting languages, including Python, JavaScript and Unix Shell 
-  * Operating systems, including OSX, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, and RHEL
-  * Application and database platforms, including Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL, PostGIS
-  * Web markup, application platforms and data formats, including HTML, PHP, JavaScript, XML, Markdown, (Geo)JSON, KML, GML and others
-  * Consumer grade GPS Equipment, including extensive experience with Garmin and Trimble units
-  * Survey grade mapping equipment, including Dual-Signal GNSS/GPS systems, RTK GPS Systems and total station survey equipment
-  * Mobile Phone/Tablet hardware and software management, including Android, iPhone, ADB, side-loading, unlocking and rooting techniques
-  * Android and iOS data collection software, systems and strategies for field data collection, including XForms/XLSForms based systems (ODK, Survey123, EpiCollect5, etc...)
-  * Multimedia editing and production.
-  * Sub-Surface remote sensing techniques, software and hardware, including Ground Penetrating Radar, Magnetometry and Electric Resistivity 
-  * Archaeological excavation and survey data collection methods
-  * Kite and Balloon Aerial Photography techniques (I come with my own IR/RGB aerial rig)  
+   * QGIS, the entire Esri GIS Software Ecosystem, OpenGeoportal, Geoblacklight, Geoserver, GDAL, DNRGPS, ENVI, etc...
+   * Web-based GIS platforms, APIs and services, including Google Earth Engine, Carto, Mapbox, OpenStreetMap, OpenLayers, Leaflet.js, etc...
+   * Development and scripting languages, including Python, JavaScript and Unix Shell 
+   * Operating systems, including OSX, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, and RHEL
+   * Application and database platforms, including Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL, PostGIS
+   * Web markup, application platforms and data formats, including HTML, PHP, JavaScript, XML, Markdown, (Geo)JSON, KML, GML and others
+   * Consumer grade GPS Equipment, including extensive experience with Garmin and Trimble units
+   * Survey grade mapping equipment, including Dual-Signal GNSS/GPS systems, RTK GPS Systems and total station survey equipment
+   * Mobile Phone/Tablet hardware and software management, including Android, iPhone, ADB, side-loading, unlocking and rooting techniques
+   * Android and iOS data collection software, systems and strategies for field data collection, including XForms/XLSForms based systems (ODK, Survey123, EpiCollect5, etc...)
+   * Multimedia editing and production.
+   * Sub-Surface remote sensing techniques, software and hardware, including Ground Penetrating Radar, Magnetometry and Electric Resistivity 
+   * Archaeological excavation and survey data collection methods
+   * Kite and Balloon Aerial Photography techniques (I come with my own IR/RGB aerial rig)  
  * Expertise in planning, implementation and management of long-term GIS projects  
  * Expertise in designing and implementing integrated, multi-user geospatial field data collection systems 
  * Expertise in digitization of cartographic materials, including rare and physically sensitive collections
