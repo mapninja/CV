@@ -11,7 +11,7 @@ ____
 ____
 #### Skills 
  * Over 20 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 9 spent as Yale University's Geospatial Swiss Army Knife.
- * Expertise in a broad range of geospatial and supporting software and hardware, including:
+ * Expertise in a broad range of geospatial and supporting software and hardware, including:  
   * QGIS, the entire Esri GIS Software Ecosystem, Google Earth Pro, OpenGeoportal, Geoserver, GDAL, DNRGPS, ENVI
   * Web-based GIS platforms, APIs and services, including Google Maps, Google Maps APIs, Google Earth Engine, Carto, Mapbox, OpenStreetMap, GeoCommons, Geojson.io, MapShaper.org, OpenMapquest API,  Geolocate API, OpenLayers, Leaflet.js and more
   * Development and scripting languages, including Python, JavaScript and Unix Shell 
@@ -25,7 +25,7 @@ ____
   * Multimedia editing and production.
   * Sub-Surface remote sensing techniques, software and hardware, including Ground Penetrating Radar, Magnetometry and Electric Resistivity 
   * Archaeological excavation and survey data collection methods
-  * Kite and Balloon Aerial Photography techniques (I come with my own IR/RGB aerial rig)
+  * Kite and Balloon Aerial Photography techniques (I come with my own IR/RGB aerial rig)  
  * Expertise in planning, implementation and management of long-term GIS projects  
  * Expertise in designing and implementing integrated, multi-user geospatial field data collection systems 
  * Expertise in digitization of cartographic materials, including rare and physically sensitive collections
