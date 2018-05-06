@@ -18,7 +18,7 @@ ____
   
 ____
 ### Expertise 
- * Over 20 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 3 spent as Stanford University's Geospatial Swiss Army Knife, the previous 10 at Yale University.
+ * More than 20 years of experience using Geographic Information Systems and geospatial data and technology for research and teaching, the last 3 spent as Stanford University's Geospatial Swiss Army Knife, the previous 10 at Yale University.
  * Expertise in a broad range of geospatial and supporting software and hardware 
    * QGIS, the entire Esri GIS Software Ecosystem, OpenGeoportal, Geoblacklight, Geoserver, GDAL, DNRGPS, ENVI, etc...
    * Web-based GIS platforms, APIs and services, including Google Earth Engine, Carto, Mapbox, OpenStreetMap, OpenLayers, Leaflet.js, etc...
@@ -106,6 +106,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  
 ### Owner/Manager 
 #### Skin&Bones
+[http://www.skinandbones.com](https://web.archive.org/web/20030731092025/http://www.skinandbones.com:80/)
 ##### June 1989 – Sept 2003 
  * 15 years of Supervisory/Managerial experience in a Small Business (8-15 	employees) environment
  * Human resources, payroll, budget planning and implementation
@@ -113,7 +114,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  * Customer relations, sales
  * Vendor relations, purchasing
  * Advertising and promotion strategy, design and copy
- * Web-master  
+ * Web-master since 1996
  
 ____
 ### Teaching Experience
