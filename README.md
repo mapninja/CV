@@ -60,7 +60,7 @@ ____
 * Cultivating relationships with industry partners, beyond their role as vendors, to enrich access to cutting edge technology for researchers at Stanford University. 
 
 ### DJ/Radio Personality  
-####KZSU 90.1 FM, Stanford  
+#### KZSU 90.1 FM, Stanford  
 **Jan 2016 - Present**  
 
 Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon Nancarrow's experiments with composition beyond human ability for player piano to the latest psych-rock from Ty Segall. Occasional interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer and contributor to the KZSU Air Clear Training curriculum for new DJs. 
