@@ -1,5 +1,5 @@
 ## Stacey D. Maples
-**Location-Based Technologies Expert, Instructor, Evangelist & Geospatial Swiss Army Knife**  
+**Location-Based Technologies Expert, Spatial Educator, Evangelist, Habitual Tinkerer, Lifetime Learner & Geospatial Swiss Army Knife**  
 stacey.maples@gmail.com  
 @mapninja
 ____
@@ -12,8 +12,7 @@ ____
 #### Skills 
  * Over 20 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 9 spent as Yale University's Geospatial Swiss Army Knife.
  * Expertise in a broad range of geospatial and supporting software and hardware, including:
-  * The entire Esri GIS Software Ecosystem, including ArcGIS Desktop, ArcExplorer, ArcGIS for Server, ArcSDE, ArcPad, Collector for ArcGIS, ArcGIS for Android, ArcGIS for iOS, ArcGIS Online for Organizations, koop, and even ArcIMS.
-  * A variety of other GIS and related software platforms, including (but not limited to) Google Earth Pro, QGIS, OpenGeoportal, Geoserver, GDAL, DNRGPS, ENVI
+  * QGIS, the entire Esri GIS Software Ecosystem, Google Earth Pro, OpenGeoportal, Geoserver, GDAL, DNRGPS, ENVI
   * Web-based GIS platforms, APIs and services, including Google Maps, Google Maps APIs, Google Earth Engine, Carto, Mapbox, OpenStreetMap, GeoCommons, Geojson.io, MapShaper.org, OpenMapquest API,  Geolocate API, OpenLayers, Leaflet.js and more
   * Development and scripting languages, including Python, JavaScript and Unix Shell 
   * Operating systems, including OSX, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, and RHEL
@@ -23,6 +22,7 @@ ____
   * Survey grade mapping equipment, including Dual-Signal GNSS/GPS systems, RTK GPS Systems and total station survey equipment
   * Mobile Phone/Tablet hardware and software management, including Android, iPhone, ADB, sideloading, unlocking and rooting techniques
   * Android and iOS data collection software, systems and strategies for field data collection, including XForms/XLSForms based systems (ODK, Survey123, EpiCollect5, etc...)
+  * Multimedia editing and production.
   * Sub-Surface remote sensing techniques, software and hardware, including Ground Penetrating Radar, Magnetometry and Electric Resistivity 
   * Archaeological excavation and survey data collection methods
   * Kite and Balloon Aerial Photography techniques (I come with my own IR/RGB aerial rig)
@@ -63,7 +63,9 @@ ____
 #### KZSU 90.1 FM, Stanford  
 **Jan 2016 - Present**  
 
-Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon Nancarrow's experiments with composition beyond human ability for player piano to the latest psych-rock from Ty Segall. Occasional interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer and contributor to the KZSU Air Clear Training curriculum for new DJs. 
+[https://soundcloud.com/mapninja](https://soundcloud.com/mapninja)
+
+Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon Nancarrow's experiments with composition beyond human ability for player piano to the latest psych-rock from Ty Segall. Occasional interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer. Instructor in the KZSU Air Clear Training curriculum for new DJs. Writing, voice and production of PSA and promotional spots. 
 
 ### Geographic Information Systems Specialist & Instruction Coordinator
 #### Yale University Library Map Department
@@ -140,23 +142,22 @@ Seminar exploring the intersection of geospatial and location-based technologies
 #### GIS for Archaeology, Yale University. Co-taught with Dr. William Honeychurch
 An introductory level credit course in applications of Geographic Information Systems and location based technologies in archaeological investigation and research. 
 #### Geophysical Prospecting Methods for Archaeology, Yale University. Co-taught with William Honeychurch.
-The applicaiton of various geophysiscal prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Magnetic Methods, Ground Penetrating Radar, data fusion and interpretation. 
+The application of various geophysical prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Magnetic Methods, Ground Penetrating Radar, data fusion and interpretation. 
 #### The Yale Map Department GIS Workshop Series, 2005-2014.
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests.
 
 
 ### Education
 
-#### Carpentries Trainer Workshop Feb 2018 
-*  [http://www.datacarpentry.org/](http://www.datacarpentry.org/)
-
+#### Carpentries Trainer Certification Workshop Feb 2018  
+[http://www.datacarpentry.org/](http://www.datacarpentry.org/)
 
 #### FOSS4GNA 2017 - Browser-based Geoprocessing with Turf.js and Leaflet  
 #### FOSS4GNA 2017 - Slippy maps, you complete me: A friendly step-by-step guide to serving up your own slippy web map tiles with tilehut.js   
 #### FOSS4GNA 2017 - Hands on with GDAL/OGR: a Gentle Introduction to Command Line GIS  
 #### FOSS4GNA 2017 - From WebODM to QGIS  
 #### SCRUM Product Owner Certification, Stanford University, Nov 2016  
-#### SCRUM Intro
+#### Intro to SCRUM, Stanford University, Nov 2016
 #### QGIS Academy, DelMar College , 2015
 #### Google Geo for Good Summit- 2015, 2016, 2017
 #### Google Earth Engine Summit- 2015, 2016, 2017
