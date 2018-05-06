@@ -13,16 +13,16 @@ ____
  * Over 20 years of experience using Geographic Information Systems and geotechnology for research and teaching, the last 9 spent as Yale University's Geospatial Swiss Army Knife.
  * Expertise in a broad range of geospatial and supporting software and hardware, including:
   * The entire Esri GIS Software Ecosystem, including ArcGIS Desktop, ArcExplorer, ArcGIS for Server, ArcSDE, ArcPad, Collector for ArcGIS, ArcGIS for Android, ArcGIS for iOS, ArcGIS Online for Organizations, koop, and even ArcIMS.
-  * A variety of other GIS and related software platforms, including (but not limited to) Google Earth Pro, QGIS, OpenGeoportal, Geoserver, TileMill, GDAL, DNRGPS, ENVI
-  * Web-based GIS platforms, APIs and services, including Google Maps, Google Maps Engine, Google Maps API, Google Geocoding API, Google Directions API, Google Earth Engine, Google Earth Engine Playground/API, CartoDB, Mapbox, OpenStreetMap, GeoCommons, Geojson.io, MapShaper.org, OpenMapquest API,  Geolocate API, OpenLayers, Leaflet.js and more
-  * Development and scripting languages, including Python, JavaScript, MS-DOS Batch Scripting, and Unix Shell 
-  * Operating systems, including all Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, and RHEL
-  * Application and database platforms, including Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL
+  * A variety of other GIS and related software platforms, including (but not limited to) Google Earth Pro, QGIS, OpenGeoportal, Geoserver, GDAL, DNRGPS, ENVI
+  * Web-based GIS platforms, APIs and services, including Google Maps, Google Maps APIs, Google Earth Engine, Carto, Mapbox, OpenStreetMap, GeoCommons, Geojson.io, MapShaper.org, OpenMapquest API,  Geolocate API, OpenLayers, Leaflet.js and more
+  * Development and scripting languages, including Python, JavaScript and Unix Shell 
+  * Operating systems, including OSX, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, and RHEL
+  * Application and database platforms, including Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL, PostGIS
   * Web markup, application platforms and data formats, including HTML, PHP, JavaScript, XML, Markdown, (Geo)JSON, KML, GML and others
   * Consumer grade GPS Equipment, including extensive experience with Garmin and Trimble units
   * Survey grade mapping equipment, including Dual-Signal GNSS/GPS systems, RTK GPS Systems and total station survey equipment
   * Mobile Phone/Tablet hardware and software management, including Android, iPhone, ADB, sideloading, unlocking and rooting techniques
-  * Android, iOS and Windows Mobile data collection software, systems and strategies for field data collection
+  * Android and iOS data collection software, systems and strategies for field data collection, including XForms/XLSForms based systems (ODK, Survey123, EpiCollect5, etc...)
   * Sub-Surface remote sensing techniques, software and hardware, including Ground Penetrating Radar, Magnetometry and Electric Resistivity 
   * Archaeological excavation and survey data collection methods
   * Kite and Balloon Aerial Photography techniques (I come with my own IR/RGB aerial rig)
@@ -34,7 +34,17 @@ ____
  * Expertise in designing and delivering GIS training programs
  * Expertise in supporting high level use of spatial data, technology and methods in research and teaching
  * Expertise in the administration, distribution and management of enterprise GIS software and services in an academic and research environment
- * Expertise and particular enthusiasm for supporting field data collection in remote and challenging environments
+ * Expertise and particular enthusiasm for supporting field data collection in remote and challenging environments  
+
+### Relevant Links 
+
+[https://github.com/mapninja](https://github.com/mapninja)  
+[https://github.com/StanfordGeospatialCenter](https://github.com/StanfordGeospatialCenter)  
+[https://github.com/OpenIndexMaps](https://github.com/OpenIndexMaps)  
+[http://library.stanford.edu/research/stanford-geospatial-center](http://library.stanford.edu/research/stanford-geospatial-center)
+
+
+
 
 ### Professional Experience
 ____
@@ -46,7 +56,14 @@ ____
 * Oversee the work of the Geospatial Reference and Instruction Specialist as well as numerous hourly and student workers
 * Designs and deliver instruction to geospatial users, assisting in the integration of geospatial skills into the curriculum
 * Collaborate with library staff and faculty members to develop and implement new directions and long-range plans for improving the provision of geospatial services including: creation of curriculum-specific teaching materials and workshops for different disciplines; providing outreach and support services to the main and branch libraries, and providing GIS support specifically for the upcoming David Rumsey Map Center; Working in collaboration with the programmers of the Digital Library Systems and Services group (DLSS) and the Scientific Metadata Librarian on the development of the library's geospatial discovery environment, GeoBlacklight
-* Support the geospatial operations in Branner Library, which include: selecting GIS software, data, hardware and peripherals; training and supervising a student staff person to assist with geospatial services and Website maintenance; managing campus-wide GIS software licenses; and maintaining high-performance computing resources, dedicated to GIS  
+* Support the geospatial operations in Branner Library, which include: selecting GIS software, data, hardware and peripherals; training and supervising a student staff person to assist with geospatial services and Website maintenance; managing campus-wide GIS software licenses; and maintaining high-performance computing resources, dedicated to GIS 
+* Cultivating relationships with industry partners, beyond their role as vendors, to enrich access to cutting edge technology for researchers at Stanford University. 
+
+### DJ/Radio Personality  
+####KZSU 90.1 FM, Stanford  
+**Jan 2016 - Present**  
+
+Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon Nancarrow's experiments with composition beyond human ability for player piano to the latest psych-rock from Ty Segall. Occasional interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer and contributor to the KZSU Air Clear Training curriculum for new DJs. 
 
 ### Geographic Information Systems Specialist & Instruction Coordinator
 #### Yale University Library Map Department
@@ -100,6 +117,12 @@ ____
  
 ____
 ### Teaching Experience
+#### GeoTech, Bishop Dunne High School, Dallas, TX. 2010-present.
+Attendee/Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. 
+
+#### Big Earth Data - Winter Quarter 2018
+
+
 #### Wrigley Field Program in Hawaii, Stanford School of Earth, Energy & Environmental Sciences, 2016  
 
 Created and delivered content for a 3-day Spatial Anaysis Module for the Wrigley Field Program, November 2016. Four components, including: An Introduction to Spatial Analysis; Geoprocessing and Spatial Data Carpentry; Imagery Analysis; and Field Data Collection. Data acquisition support from DigitalGlobe. 
@@ -120,35 +143,25 @@ An introductory level credit course in applications of Geographic Information Sy
 The applicaiton of various geophysiscal prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Magnetic Methods, Ground Penetrating Radar, data fusion and interpretation. 
 #### The Yale Map Department GIS Workshop Series, 2005-2014.
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests.
-#### GeoTech, Bishop Dunne High School, Dallas, TX. 2010-present.
-Attendee/Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. 
+
 
 ### Education
 
-#### SCRUM Product Owner Certification, Stanford University, Nov 2016
+#### Carpentries Trainer Workshop Feb 2018 
+*  [http://www.datacarpentry.org/](http://www.datacarpentry.org/)
 
-#### QGIS Academy, DelMar College
- * http://foss4geo.wordpress.com/2014/08/10/announcing-the-new-qgis-academy/
 
-#### Google Geo for Good Summit, July 2016
-#### Google Earth Engine Summit, May 2016
-
-#### Google Geo for Higher Ed Summit, July 22-24, 2013
- * Various Workshops and panels familiarizing participants with the Google  Geo Platforms, including:
-  * Google Earth Pro
-  * Google Maps Engine Lite
-  * Google Maps Engine
-  * Google Earth Engine
-  * Google Timelapse
-  * Field Mobile Data Collection with ODK Collect
-  * Google Earth Portable
-  * Google Maps APIs
-  * Street View
-
+#### FOSS4GNA 2017 - Browser-based Geoprocessing with Turf.js and Leaflet  
+#### FOSS4GNA 2017 - Slippy maps, you complete me: A friendly step-by-step guide to serving up your own slippy web map tiles with tilehut.js   
+#### FOSS4GNA 2017 - Hands on with GDAL/OGR: a Gentle Introduction to Command Line GIS  
+#### FOSS4GNA 2017 - From WebODM to QGIS  
+#### SCRUM Product Owner Certification, Stanford University, Nov 2016  
+#### SCRUM Intro
+#### QGIS Academy, DelMar College , 2015
+#### Google Geo for Good Summit- 2015, 2016, 2017
+#### Google Earth Engine Summit- 2015, 2016, 2017
+#### Google Geo for Higher Ed Summit, 2013
 #### Esri T3G (Teachers Teaching Teachers GIS) Institute, June 13-18th 2010
-
-  "A professional development event for educators and education influencers who help other educators learn why and how to use GIS."  Included hands on workshops in basic use of Esri software, pedagogy discussion and group work.  
-
 #### ESRI Training, July 2009
  * Data Management in the Multiuser Geodatabase
  * ArcGIS Server Enterprise Configuration and Tuning for SQL Server
@@ -159,6 +172,7 @@ Attendee/Instructor. Introductory level workshop topics for K-12 teachers to hel
         	 
 #### National Park Service / Dept. of the Interior - 2004  
  * Certification - Geophysical Survey & Prospection for Cultural Resource Management
+  * Electric Resistivity, Magnetometry, GPR, photo analysis and other geophysical methods for archaeological survey.
 
 #### Southern Methodist University -1997
  * B.Sc. in Anthropology/Archaeology, Minor in Latin American Studies.
@@ -168,10 +182,23 @@ Attendee/Instructor. Introductory level workshop topics for K-12 teachers to hel
  * Edward I. and Peggy C. Fry Award for Academic Excellence in Undergraduate Anthropology
  
 #### Ft. Burgwin Archaeological Field School - 1996
- * Archaeological field methods and writing  
+ * Archaeological field methods and writing
+ * Total Station survey
+ * GPS Survey  
  
 ____
 ### Selected Projects 
+
+#### BigEarthHacks SE3
+https://bigearthhacks.stanford.edu/
+
+#### GISDay@Stanford
+
+Stanford's annual celebration of all things location, including the cutting edge of geospatial technologies. Development, planning and coordination of the event, 3 years running. The schedules speak for themselves. Off-the-hook fun for geonerds.
+
+2015 - [https://www.eventbrite.com/e/gisdaystanford-tickets-19264666135#](https://www.eventbrite.com/e/gisdaystanford-tickets-19264666135#)  
+2016 - [https://stanfordgisday2016.sched.com/](https://stanfordgisday2016.sched.com/)  
+2017 - [https://gisdaystanford2017.sched.com/](https://gisdaystanford2017.sched.com/)
 
 #### Nomadic Pastoralist Settlement Survey
 
