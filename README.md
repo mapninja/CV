@@ -5,18 +5,17 @@
 [https://github.com/mapninja](https://github.com/mapninja)  
 [https://github.com/StanfordGeospatialCenter](https://github.com/StanfordGeospatialCenter)  
 [http://library.stanford.edu/research/stanford-geospatial-center](http://library.stanford.edu/research/stanford-geospatial-center)
-____
+
 ### References
   On Request
-____
+
 ### Objectives
 * To allow researchers, scholars and do-gooders to do more meaningful work by helping them investigate, quantify and solve spatial problems with technology.  
 * To concern myself with issues of import to academic researchers, from building information literacy skills programs tailored to cutting-edge use of geospatial data and technologies, to issues of discovery, access and persistence of the data sources and products of research and teaching in Higher Education. 
 * To surround myself with people smarter than me.  
 * To always be doing something at least moderately amazing.  
 * To elevate the work of impactful, brilliant people.
-  
-____
+
 ### Expertise 
  * More than 20 years of experience using Geographic Information Systems and geospatial data and technology for research and teaching, the last 3 spent as Stanford University's Geospatial Swiss Army Knife, the previous 10 at Yale University.
  * Expertise in a broad range of geospatial and supporting software and hardware 
@@ -45,7 +44,7 @@ ____
  * Particular enthusiasm for supporting field data collection in remote and challenging environments  
 
 ### Professional Experience
-____
+
 ### Geospatial Manager 
 #### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
 ##### Jan 2015-Present
@@ -115,8 +114,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  * Vendor relations, purchasing
  * Advertising and promotion strategy, design and copy
  * Web-master since 1996
- 
-____
+
 ### Teaching Experience
 #### GeoTech, Bishop Dunne High School, Dallas, TX. 2010-present.
 Attendee/Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. Honestly one of the favorite things I do.
@@ -144,7 +142,6 @@ An introductory level credit course in applications of Geographic Information Sy
 The application of various geophysical prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Magnetic Methods, Ground Penetrating Radar, data fusion and interpretation. 
 #### The Yale Map Department GIS Workshop Series, 2005-2014.
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests.
-
 
 ### Education
 
@@ -185,7 +182,6 @@ An ongoing workshop series, with the objective of delivering practical skills in
  * Total Station survey
  * GPS Survey  
  
-____
 ### Selected Projects 
 
 #### BigEarthHacks SE3 2018
