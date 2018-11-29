@@ -4,10 +4,10 @@
 [@mapninja](https://twitter.com/mapninja)  
 [https://github.com/mapninja](https://github.com/mapninja)  
 [https://github.com/StanfordGeospatialCenter](https://github.com/StanfordGeospatialCenter)  
-[http://library.stanford.edu/research/stanford-geospatial-center](http://library.stanford.edu/research/stanford-geospatial-center)
+[http://library.stanford.edu/research/stanford-geospatial-center](http://library.stanford.edu/research/stanford-geospatial-center)  
 
 ### References
-  On Request
+On Request  
 
 ### Objectives
 * To allow researchers, scholars and do-gooders to do more meaningful work by helping them investigate, quantify and solve spatial problems with technology.  
