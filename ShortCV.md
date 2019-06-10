@@ -34,16 +34,7 @@ ____
 ### Research Assistant / Teaching Assistant  
 #### University of Texas at Dallas
 ##### Aug 2003 to Aug 2005  
- * System administration and GIS lab management 
- * Preparation and grading of curriculum   
- * Lecture and lab presentations   
- * Courses:  
-  * Introductory GIS   
-  * GIS for Social Sciences  
-  * World Regional Geography  
-  * Transportation & Logistics  
-  * Internet Mapping with ArcIMS 
- 
+
 ## Teaching Experience
 #### Wrigley Field Program in Hawaii, Stanford School of Earth, Energy & Environmental Sciences, 2016  
 
@@ -75,24 +66,11 @@ Attendee/Instructor. Introductory level workshop topics for K-12 teachers to hel
 #### QGIS Academy, DelMar College
  * http://foss4geo.wordpress.com/2014/08/10/announcing-the-new-qgis-academy/
 
-#### Google Geo for Good Summit, July 2016
-#### Google Earth Engine Summit, May 2016
-
+#### Google Geo for Good Summit, 2018
+#### Google Earth Engine Summit, 2018
 #### Google Geo for Higher Ed Summit, July 22-24, 2013
- * Various Workshops and panels familiarizing participants with the Google  Geo Platforms, including:
-  * Google Earth Pro
-  * Google Maps Engine Lite
-  * Google Maps Engine
-  * Google Earth Engine
-  * Google Timelapse
-  * Field Mobile Data Collection with ODK Collect
-  * Google Earth Portable
-  * Google Maps APIs
-  * Street View
 
 #### Esri T3G (Teachers Teaching Teachers GIS) Institute, June 13-18th 2010
-
-  "A professional development event for educators and education influencers who help other educators learn why and how to use GIS."  Included hands on workshops in basic use of Esri software, pedagogy discussion and group work.  
 
 #### ESRI Training, July 2009
  * Data Management in the Multiuser Geodatabase
