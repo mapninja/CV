@@ -17,7 +17,7 @@ On Request
 * To elevate the work of impactful, brilliant people.
 
 ## Expertise 
- * More than 20 years of experience using Geographic Information Systems and geospatial data and technology for research and teaching, the last 3 spent as Stanford University's Geospatial Swiss Army Knife, the previous 10 at Yale University.
+ * More than 20 years of experience using Geographic Information Systems and geospatial data and technology for research and teaching, the last 5 spent as Stanford University's Geospatial Swiss Army Knife, the previous 10 at Yale University.
  * Expertise in a broad range of geospatial and supporting software and hardware 
    * Esri GIS Software Ecosystem, QGIS, OpenGeoportal, Geoblacklight, Geoserver, GDAL, DNRGPS, ENVI, etc...
    * Web-based GIS platforms, APIs and services, including Google Earth Engine, Carto, Mapbox, OpenStreetMap, OpenLayers, Leaflet.js, etc...
