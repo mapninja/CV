@@ -217,3 +217,8 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
    "The Photogrammar Project is a Yale University Public Humanities Project designed to offer an interactive web-based open source visualization   platform for the one-hundred and sixty-thousand photographs created by the federal government from 1935 to 1943 under the Farm Securities Administration and Office of War Information (FSA-OWI)." 
    
   Working closely with other members of the Photogrammar Team, I have been responsible for the creation and management of the geospatial data for the project. This has included geocoding ninety-thousand images (~5000 unique locations) using various geocoding platforms and APIs. The bulk of the geocoding work was done using Tulane University's Geolocate API, through Google/OpenRefine. Work also included the attachment of location information to the existing collection metadata and association with historic county boundary data, using SQL, for visualization in the CartoDB platform. 
+  
+## Publications
+
+A selection of publications, including those containing my cartography, can be found at:  
+[https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=uaB5YsQAAAAJ&view_op=list_works&sortby=pubdate)
