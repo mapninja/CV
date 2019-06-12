@@ -19,16 +19,16 @@ On Request
 ## Expertise 
  * More than 20 years of experience using Geographic Information Systems and geospatial data and technology for research and teaching, the last 3 spent as Stanford University's Geospatial Swiss Army Knife, the previous 10 at Yale University.
  * Expertise in a broad range of geospatial and supporting software and hardware 
-   * QGIS, the entire Esri GIS Software Ecosystem, OpenGeoportal, Geoblacklight, Geoserver, GDAL, DNRGPS, ENVI, etc...
+   * Esri GIS Software Ecosystem, QGIS, OpenGeoportal, Geoblacklight, Geoserver, GDAL, DNRGPS, ENVI, etc...
    * Web-based GIS platforms, APIs and services, including Google Earth Engine, Carto, Mapbox, OpenStreetMap, OpenLayers, Leaflet.js, etc...
    * Development and scripting languages, including Python, JavaScript and Unix Shell 
-   * Operating systems, including OSX, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, and RHEL
+   * Operating systems, including MacOS, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, and RHEL
    * Application and database platforms, including Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL, PostGIS
    * Web markup, application platforms and data formats, including HTML, PHP, JavaScript, XML, Markdown, (Geo)JSON, KML, GML and others
-   * Consumer grade GPS Equipment, including extensive experience with Garmin and Trimble units
+   * Consumer grade GPS Equipment, including extensive experience with Garmin and Trimble hardware
    * Survey grade mapping equipment, including Dual-Signal GNSS/GPS systems, RTK GPS Systems and total station survey equipment
    * Mobile Phone/Tablet hardware and software management, including Android, iPhone, ADB, side-loading, unlocking and rooting techniques
-   * Android and iOS data collection software, systems and strategies for field data collection, including XForms/XLSForms based systems (ODK, Survey123, EpiCollect5, etc...)
+   * Android and iOS data collection software, systems and strategies for field data collection, including Collector for ArcGIS and XForms/XLSForms based systems (ODK, Survey123, EpiCollect5, etc...)
    * Multimedia editing and production.
    * Sub-Surface remote sensing techniques, software and hardware, including Ground Penetrating Radar, Magnetometry and Electric Resistivity 
    * Archaeological excavation and survey data collection methods
@@ -51,7 +51,7 @@ On Request
 * Head of the Stanford Geospatial Center, a center that supports 1,000+ students and faculty with over 100 workshops, class lectures, and presentations per year and nearly 6,000 one-on-one reference consultations via email, phone and in-person
 * Sustain and strengthen the GIS program as the primary provider of geospatial technology services, research consultation, and user education to Stanford University (SU) students, faculty and staff from all departments across campus
 * Oversee the work of the Geospatial Reference and Instruction Specialist, two GIS Assistants as well as numerous hourly and student workers
-* Designs and deliver instruction to geospatial users, assisting in the integration of geospatial skills into the curriculum
+* Design and deliver instruction to geospatial users, assisting in the integration of geospatial skills into the curriculum
 * Collaborate with library staff and faculty members to develop and implement new directions and long-range plans for improving the provision of geospatial services including: creation of curriculum-specific teaching materials and workshops for different disciplines; providing outreach and support services to the main and branch libraries, and providing GIS support specifically for the upcoming David Rumsey Map Center; Working in collaboration with the programmers of the Digital Library Systems and Services group (DLSS) and the Scientific Metadata Librarian on the development of the library's geospatial discovery environment, GeoBlacklight
 * Support the geospatial operations in Branner Library, which include: selecting GIS software, data, hardware and peripherals; training and supervising a student staff person to assist with geospatial services and Website maintenance; managing campus-wide GIS software licenses; and maintaining high-performance computing resources, dedicated to GIS 
 * Cultivating relationships with industry partners, beyond their role as vendors, to enrich access to cutting edge technology for researchers at Stanford University. 
@@ -60,7 +60,8 @@ On Request
 ### KZSU 90.1 FM, Stanford  
 **Jan 2016 - Present**  
 
-[https://soundcloud.com/mapninja](https://soundcloud.com/mapninja)
+[https://soundcloud.com/mapninja](https://soundcloud.com/mapninja)  
+[https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428](https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428)
 
 Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon Nancarrow's experiments with composition beyond human ability for player piano to the latest psych-rock from Ty Segall. Occasional interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer. Instructor in the KZSU Air Clear Training curriculum for new DJs. Writing, voice and production of PSA and promotional spots. 
 
@@ -73,7 +74,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  * GIS data collection development
  * Technical support for the use of GIS and Geotech in research and teaching.
  * Collaboration in Faculty research & curriculum development
- * Research GIS infrastructure administration, including system and database administration of 8 distinct server systems
+ * Research GIS infrastructure administration, including system and database administration of 8 distinct ArcGIS Server systems
  * GIS and Geotech related event coordination
  * Print Map reference and research services
  * Management of digitization workflows
@@ -117,21 +118,17 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
 
 ## Teaching Experience
 ### GeoTech, Bishop Dunne High School, Dallas, TX. 2010-present.
-Attendee/Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. Honestly one of the favorite things I do.
+Attendee/Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. Honestly one of my favorite things I do.
 
 ### EARTH 1B: Know Your Planet: Big Earth, Stanford University - Winter Quarter 2018
 Foundations of "Big Earth" data, including public and private-sector Earth imaging services, crowd-sourced global-scale geospatial data, trajectory and data streams. Visualization as analysis, 
 
 ### Wrigley Field Program in Hawaii, Stanford School of Earth, Energy & Environmental Sciences, 2016  
-
 Created and delivered content for a 3-day QGIS Spatial Analysis Module for the Wrigley Field Program, November 2016. Four components, including: An Introduction to Spatial Analysis; Geoprocessing and Spatial Data Carpentry; Imagery Analysis; and Field Data Collection. Data acquisition support from DigitalGlobe. 
-
 ### Stanford Summer Research College (SRC), 2015-present
 Created and delivered content for a 3-day Spatial Analysis Bootcamp, using ArcGIS Suite of software, and including: An Introduction to GIS with ArcGIS, Geoprocessing with ArcGIS, Data Creation Workflows with ArcGIS, and Field Data Collection with ArcGIS. 
-
 ### The Stanford Geospatial Center GIS Workshop Series, 2015-present
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either QGIS, ArcGIS, ArcGIS Pro or R Studio depending on user needs and interests. 
-
 ### MODS Summer Graduate Student Orientation Program, Yale School of Forestry & Environmental Studies, 2006-2014
 Applied GIS for Urban Forestry applications including field data collection, management and analysis, using the ongoing and Urban Resource Initiative's New Haven Street Tree Survey. Students are oriented to the technology stack used (currently ArcGIS Server and Collector for ArcGIS based), trained and deployed for street tree survey field data collection, then provided instruction in the management and analysis of collected data. 
 ### Geospatial Law & Policy, Yale Law School, 2010. Co-taught with Dr. Richard Brooks. 
@@ -142,12 +139,13 @@ An introductory level credit course in applications of Geographic Information Sy
 The application of various geophysical prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Magnetic Methods, Ground Penetrating Radar, data fusion and interpretation. 
 ### The Yale Map Department GIS Workshop Series, 2005-2014.
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests.
-
 ## Education
-
 ### Carpentries Trainer Certification Workshop Feb 2018  
-[http://www.datacarpentry.org/](http://www.datacarpentry.org/)
-
+[http://www.datacarpentry.org/](http://www.datacarpentry.org/)  
+### FOSS4GNA 2019 - Using the other fun parts of PostgreSQL along with PostGIS
+### FOSS4GNA 2019 - How to create STAC catalogs and APIs from your own data
+### FOSS4GNA 2019 - Satellite Imagery Analysis with Python
+### FOSS4GNA 2018 - Satellite Imagery Analysis with Python
 ### FOSS4GNA 2017 - Browser-based Geoprocessing with Turf.js and Leaflet  
 ### FOSS4GNA 2017 - Slippy maps, you complete me: A friendly step-by-step guide to serving up your own slippy web map tiles with tilehut.js   
 ### FOSS4GNA 2017 - Hands on with GDAL/OGR: a Gentle Introduction to Command Line GIS  
@@ -155,8 +153,8 @@ An ongoing workshop series, with the objective of delivering practical skills in
 ### SCRUM Product Owner Certification, Stanford University, Nov 2016  
 ### Intro to SCRUM, Stanford University, Nov 2016
 ### QGIS Academy, DelMar College , 2015
-### Google Geo for Good Summit- 2015, 2016, 2017
-### Google Earth Engine Summit- 2015, 2016, 2017
+### Google Geo for Good Summit- 2015, 2016, 2017, 2018
+### Google Earth Engine Summit- 2015, 2016, 2017, 2018
 ### Google Geo for Higher Ed Summit, 2013
 ### Esri T3G (Teachers Teaching Teachers GIS) Institute, June 13-18th 2010
 ### ESRI Training, July 2009
@@ -194,10 +192,14 @@ Stanford's annual celebration of all things location, including the cutting edge
 2015 - [https://www.eventbrite.com/e/gisdaystanford-tickets-19264666135#](https://www.eventbrite.com/e/gisdaystanford-tickets-19264666135#)  
 2016 - [https://stanfordgisday2016.sched.com/](https://stanfordgisday2016.sched.com/)  
 2017 - [https://gisdaystanford2017.sched.com/](https://gisdaystanford2017.sched.com/)
+2018 - [https://gisdaystanford2018.sched.com/](https://gisdaystanford2018.sched.com/)
 
 ### Nomadic Pastoralist Settlement Survey
 
-see: "Surveying Nomadic Health" [http://trajectorymagazine.com/digitalglobe-foundation-celebrates-10-years/](http://trajectorymagazine.com/digitalglobe-foundation-celebrates-10-years/)  
+see: "Surveying Nomadic Health" [http://trajectorymagazine.com/digitalglobe-foundation-celebrates-10-years/](http://trajectorymagazine.com/digitalglobe-foundation-celebrates-10-years/)   
+
+StoryMap (beta):
+[https://arcg.is/0XGrDO](https://arcg.is/0XGrDO)
 
 Over the summer of 2017, we used hyper-recent satellite imagery obtained from the DigitalGlobe Foundation, Open Source software and very large, high-resolution monitor arrays to do manual reconnaissance, identifying active settlements of the Nyangatom, a nomadic pastoralist population in Southern Ethiopia. The survey was the basis for first randomized public health survey ever conducted on the group.  The Stanford Geospatial Center is now working with School of Medicine researcher, Hannah Binzen Wild, to incorporate lessons learned in the field and to automate the use of high-cadence satellite imagery, machine learning in identifying the locations of active nomadic pastoralist settlements. Remote in the extreme, widely dispersed and highly mobile, the difficulty of conducting complete settlement surveys has resulted in the Nyangatom, and populations like them, being missed by most public health needs assessments in the past. Wild's aim is to perform the first randomized surveys on these types of populations in order to provide baseline data for the evaluation of future public health interventions with populations of these types. 
 
