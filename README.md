@@ -67,20 +67,20 @@ On Request
 * Collaborate with library staff and faculty members to develop and implement new directions and long-range plans for improving the provision of geospatial services including: creation of curriculum-specific teaching materials and workshops for different disciplines; providing outreach and support services to the main and branch libraries, and providing GIS support specifically for the upcoming David Rumsey Map Center; Working in collaboration with the programmers of the Digital Library Systems and Services group (DLSS) and the Scientific Metadata Librarian on the development of the library's geospatial discovery environment, GeoBlacklight
 * Support the geospatial operations in Branner Library, which include: selecting GIS software, data, hardware and peripherals; training and supervising a student staff person to assist with geospatial services and Website maintenance; managing campus-wide GIS software licenses; and maintaining high-performance computing resources, dedicated to GIS
 * Cultivating relationships with industry partners, beyond their role as vendors, to enrich access to cutting edge technology for researchers at Stanford University
-
+----
 ## Geospatial Manager
 ### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
 #### Jan 2015-March 2021
-
+----
 ## DJ/Radio Personality  
 ### KZSU 90.1 FM, Stanford  
-**Jan 2016 - Present**  
+#### Jan 2016 - Present   
 
 [https://soundcloud.com/mapninja](https://soundcloud.com/mapninja)  
 [https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428](https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428)
 
 Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon Nancarrow's experiments with composition beyond human ability for player piano to the latest psych-rock from Ty Segall. Occasional interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer. Instructor in the KZSU Air Clear Training curriculum for new DJs. Writing, voice and production of PSA and promotional spots.
-
+----
 ## Geographic Information Systems Specialist & Instruction Coordinator
 ### Yale University Library Map Department
 #### Sept 2010 - Jan 2015
@@ -95,7 +95,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  * Print Map reference and research services
  * Management of digitization workflows
  * Management and circulation of GPS and field data collection equipment collection
-
+----
 ## Geographic Information Systems Assistant & Instruction Specialist  
 ### Yale University Library Map Department
 #### Aug 2005 - Sept 2010
@@ -103,7 +103,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  * Technical support for the use of GIS and Geotech in research and teaching
  * Collaboration in Faculty research & curriculum development
  * Research GIS Infrastructure Administration, including System and Database Administration
-
+----
 ## Research Assistant / Teaching Assistant  
 ### University of Texas at Dallas
 #### Aug 2003 to Aug 2005  
@@ -119,7 +119,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
   * World Regional Geography  
   * Transportation & Logistics  
   * Internet Mapping with ArcIMS
-
+----
 ## Owner/Manager
 ### Skin&Bones
 [http://www.skinandbones.com](https://web.archive.org/web/20030731092025/http://www.skinandbones.com:80/)
@@ -131,7 +131,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  * Vendor relations, purchasing
  * Advertising and promotion strategy, design and copy
  * Web-master since 1996
-
+----
 ## Teaching   
 ### EARTHSYS 144: Fundamentals of Geographic Information Science (GIS) (ESS 164)  
 Autumn Quarter 2020-present  
@@ -173,15 +173,15 @@ An introductory level credit course in applications of Geographic Information Sy
 The application of various geophysical prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Magnetic Methods, Ground Penetrating Radar, data fusion and interpretation.
 ### The Yale Map Department GIS Workshop Series, 2005-2014.
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests.  
-
+----
 ## Publications
 Current publications can be found at:  
 
 https://orcid.org/0000-0002-4917-3143  
 &   
 [https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=uaB5YsQAAAAJ&view_op=list_works&sortby=pubdate)  
+----  
 ## Selected Projects
-
 ### Nomadic Pastoralist Settlement Survey
 
 https://www.youtube.com/watch?v=M0VBNW87ArI  
@@ -205,8 +205,6 @@ https://nelson.research.pediatrics.med.ufl.edu/motomeds/
 Part of the Improving Nighttime Access to Care and Treatment (INACT) Project.
 
 Consulting spatial data scientist and field data specialist. Designed and implemented survey frameworks for highly-dispersed, unaddressed households in Leogane and Gressier communnes, Haiti.
-
-
 
 ### Outbreak Responder  
 
@@ -250,7 +248,7 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
    "The Photogrammar Project is a Yale University Public Humanities Project designed to offer an interactive web-based open source visualization   platform for the one-hundred and sixty-thousand photographs created by the federal government from 1935 to 1943 under the Farm Securities Administration and Office of War Information (FSA-OWI)."
 
   Working closely with other members of the Photogrammar Team, I have been responsible for the creation and management of the geospatial data for the project. This has included geocoding ninety-thousand images (~5000 unique locations) using various geocoding platforms and APIs. The bulk of the geocoding work was done using Tulane University's Geolocate API, through Google/OpenRefine. Work also included the attachment of location information to the existing collection metadata and association with historic county boundary data, using SQL, for visualization in the CartoDB platform.
-
+----
 
 ## Education
 ##### FAA Part 107 License Preparation, Pilot Institute, 2020
