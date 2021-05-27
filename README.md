@@ -71,13 +71,14 @@ On Request
 ## Geospatial Manager
 ### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
 #### Jan 2015-March 2021
-----
+----  
+
 ## DJ/Radio Personality  
 ### KZSU 90.1 FM, Stanford  
 #### Jan 2016 - Present   
 
 [https://soundcloud.com/mapninja](https://soundcloud.com/mapninja)  
-[https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428](https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428)
+[https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428](https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428)  
 
 Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon Nancarrow's experiments with composition beyond human ability for player piano to the latest psych-rock from Ty Segall. Occasional interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer. Instructor in the KZSU Air Clear Training curriculum for new DJs. Writing, voice and production of PSA and promotional spots.
 ----
