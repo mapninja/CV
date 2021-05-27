@@ -49,7 +49,9 @@ On Request
 
 ## Professional Experience  
 ## Assistant Director of Geospatial Collections & Services
-#### Stanford University Libraries
+#### Branner Earth Sciences Library, Stanford University Libraries
+#### March 2021-present
+
 * Oversee modern maps & geospatial data operations, collections and services
 * Coordinate development, implementation & maintenance of internal infrastructure services, including:
   - earthworks.stanford.edu - Stanford's spatial data discovery and access platform
@@ -57,6 +59,8 @@ On Request
   - Stanford Spatial Data Infrastructure (SSDI) - PostgreSQL/PostGIS/Geoserver stack that supports spatial data services for Earthworks and Stanford researchers
 
 * Head of the Stanford Geospatial Center, a center that supports 1,000+ students and faculty with over 100 workshops, class lectures, and presentations per year and nearly 6,000 one-on-one reference consultations via email, phone and in-person
+* Head of the Branner Earth Sciences Library Map Collections, which  holds a circulating collection of over 300k sheet maps and atlases.
+* Geospatial and modern map collection development and budgeting.
 * Sustain and strengthen the GIS program as the primary provider of geospatial technology services, research consultation, and user education to Stanford University (SU) students, faculty and staff from all departments across campus
 * Oversee the work of the Geospatial Reference and Instruction Specialist, two GIS Assistants as well as numerous hourly and student workers
 * Design and deliver instruction to geospatial users, assisting in the integration of geospatial skills into the curriculum
@@ -66,8 +70,7 @@ On Request
 
 ## Geospatial Manager
 ### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
-#### Jan 2015-Present
-.
+#### Jan 2015-March 2021
 
 ## DJ/Radio Personality  
 ### KZSU 90.1 FM, Stanford  
@@ -171,28 +174,17 @@ The application of various geophysical prospecting methods in non-invasive inves
 ### The Yale Map Department GIS Workshop Series, 2005-2014.
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests.  
 
+## Publications
+Current publications can be found at:  
+
+https://orcid.org/0000-0002-4917-3143  
+&   
+[https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=uaB5YsQAAAAJ&view_op=list_works&sortby=pubdate)  
 ## Selected Projects
 
-### Geo4LibCamp
-##### Role: Co-founder/Host
-https://geo4libcamp.org/  
-Geo4LibCamp is an annual unconference hosted at Stanford University. A three day unconference, followed by two working days to collaborate, learn, and make progress on spatial data services and support in libraries.
-
-### iiif + Maps Community
-##### Role: Co-founder/Co-Chair
-https://iiif.io/community/groups/maps/  
-This group works on defining best practice in associating geographical information with iiif materials. This includes iiif recipes but also more in depth work to align efforts to link iiif maps to geospatial systems. The group is creating a JSON schema suited to the needs of the IIIF community, including how to incorporate this connective schema with IIIF manifests.
-
-### GISDay@Stanford
-
-Stanford's annual celebration of all things location, including the cutting edge of geospatial technologies. Development, planning and coordination of the event, 3 years running. The schedules speak for themselves. Off-the-hook fun for geonerds.
-
-2015 - [https://www.eventbrite.com/e/gisdaystanford-tickets-19264666135#](https://www.eventbrite.com/e/gisdaystanford-tickets-19264666135#)  
-2016 - [https://stanfordgisday2016.sched.com/](https://stanfordgisday2016.sched.com/)  
-2017 - [https://gisdaystanford2017.sched.com/](https://gisdaystanford2017.sched.com/)
-2018 - [https://gisdaystanford2018.sched.com/](https://gisdaystanford2018.sched.com/)
-
 ### Nomadic Pastoralist Settlement Survey
+
+https://www.youtube.com/watch?v=M0VBNW87ArI  
 
 Currently funded by the Bill & Melinda Gates Foundation:  
 https://gcgh.grandchallenges.org/grant/geospatial-methodology-reach-mobile-populations
@@ -225,6 +217,24 @@ The app:
 
 The Outbreak Responder is a decision-support and epidemiology platform for use during diarrheal disease outbreaks. There are two components. The first component is a rehydration calculator that automates World Health Organization guidelines for how to assess and rehydrate a patient with diarrheal disease. The calculator is designed to be used in 30 seconds and does not require an account or connectivity. The second component is intended for the Outbreak Response Team that may include epidemiologists, public health administrators, and clinicians. This component requires a login/password. Patients are organized in a registry with icons that designate disease severity. Each patient record contains basic demographic, clinical, laboratory, and geospatial data. All aspects of the platform are encrypted and secure to industry standard. Data are visualized on a secure dashboard that helps administrators optimize resource allocation during rapidly evolving outbreaks. The dashboard also helps clinicians improve the quality of care delivered at the bedside. The design leverages geospatial mapping to identify critical actionable data. Outbreak Responder is designed for use in developing countries with high diarrheal disease burden. It was built by an international team of clinical and computer science experts led by Eric Nelson, MD., PhD at Stanford University.
 
+### Geo4LibCamp
+##### Role: Co-founder/Host
+https://geo4libcamp.org/  
+Geo4LibCamp is an annual unconference hosted at Stanford University. A three day unconference, followed by two working days to collaborate, learn, and make progress on spatial data services and support in libraries.
+
+### iiif + Maps Community
+##### Role: Co-founder/Co-Chair
+https://iiif.io/community/groups/maps/  
+This group works on defining best practice in associating geographical information with iiif materials. This includes iiif recipes but also more in depth work to align efforts to link iiif maps to geospatial systems. The group is creating a JSON schema suited to the needs of the IIIF community, including how to incorporate this connective schema with IIIF manifests.
+
+### GISDay@Stanford
+
+Stanford's annual celebration of all things location, including the cutting edge of geospatial technologies. Development, planning and coordination of the event, 3 years running. The schedules speak for themselves. Off-the-hook fun for geonerds.
+
+2015 - [https://www.eventbrite.com/e/gisdaystanford-tickets-19264666135#](https://www.eventbrite.com/e/gisdaystanford-tickets-19264666135#)  
+2016 - [https://stanfordgisday2016.sched.com/](https://stanfordgisday2016.sched.com/)  
+2017 - [https://gisdaystanford2017.sched.com/](https://gisdaystanford2017.sched.com/)  
+2018 - [https://gisdaystanford2018.sched.com/](https://gisdaystanford2018.sched.com/)
 
 ### The Urban Resource Initiative New Haven Street Tree Survey
 
@@ -241,14 +251,10 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
 
   Working closely with other members of the Photogrammar Team, I have been responsible for the creation and management of the geospatial data for the project. This has included geocoding ninety-thousand images (~5000 unique locations) using various geocoding platforms and APIs. The bulk of the geocoding work was done using Tulane University's Geolocate API, through Google/OpenRefine. Work also included the attachment of location information to the existing collection metadata and association with historic county boundary data, using SQL, for visualization in the CartoDB platform.
 
-## Publications
-
-A selection of publications, including those containing my cartography, can be found at:  
-[https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=uaB5YsQAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Education
+##### FAA Part 107 License Preparation, Pilot Institute, 2020
 ##### Carpentries Trainer Certification Workshop Feb 2018  
-##### [http://www.datacarpentry.org/](http://www.datacarpentry.org/)  
 ##### FOSS4GNA 2019 - Using the other fun parts of PostgreSQL along with PostGIS
 ##### FOSS4GNA 2019 - How to create STAC catalogs and APIs from your own data
 ##### FOSS4GNA 2019 - Satellite Imagery Analysis with Python
