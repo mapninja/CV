@@ -19,7 +19,7 @@ https://orcid.org/0000-0002-4917-3143
 
 ## Professional Experience  
 ### Assistant Director of Geospatial Collections & Services
-#### Stanford University Libraries
+#### Stanford Geospatial Center, Stanford Libraries
 ##### March 2021-present
 * Strategic vision and planning for spatial and cartographic collections, data services and support at Stanford Libraries
 * Oversee modern maps & geospatial data operations, collections and services
@@ -36,32 +36,36 @@ https://orcid.org/0000-0002-4917-3143
   - SimplyAnalytics.com
   - Carto.com
   - Mapbox.com
-____
+
+
 ### Lecturer
-#### Stanford Doerr School of Sustainability
+#### Stanford Doerr School of Sustainability, Stanford University
 ##### Autumn 2020-present
 
 **EARTHSYS144 - _Fundamentals of Geographic Information Science_** - This course presents an overview of current approaches to the use of spatial data and its creation, capture, management, analysis and presentation, in a research context. Topics include modeling of geographic objects and associated data, modeling of geographic space and the conceptual foundations of "spatial thinking," field data collection, basic spatial statistical analysis, remote sensing & the use of satellite-based imagery, "Big Data" and machine learning approaches to spatial data, and cartographic design and presentation.
 
-### Geospatial Manager
-#### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University  
-##### Jan 2015-March 2021
-____
+
 ### DJ/Radio Personality  
 #### KZSU 90.1 FM, Stanford  
 ##### Jan 2016 - Present
 
 - [KZSU DJ Profile Page](https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428)  
 - [https://soundcloud.com/mapninja](https://soundcloud.com/mapninja)
-____
+-
+### Geospatial Manager
+#### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University  
+##### Jan 2015-March 2021
+
 ### Geographic Information Systems Specialist & Instruction Coordinator
 #### Yale University Library Map Department
 ##### Sept 2010 - Jan 2015
-____
+
+
 ### Geographic Information Systems Assistant & Instruction Specialist  
 #### Yale University Library Map Department
 ##### Aug 2005 - Sept 2010
-____
+
+
 ### Research Assistant / Teaching Assistant  
 #### University of Texas at Dallas
 ##### Aug 2003 to Aug 2005  
