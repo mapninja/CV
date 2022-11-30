@@ -24,7 +24,7 @@ https://orcid.org/0000-0002-4917-3143
 * Strategic vision and planning for spatial and cartographic collections, data services and support at Stanford Libraries
 * Oversee modern maps & geospatial data operations, collections and services
 * Supervision of Stanford Geospatial Center staff and interns
-* Coordinate development, implementation & maintenance of internal infrastructure services, including:
+* Coordinate development, implementation & maintenance of Stanford's data infrastructure and services, including:
   - [earthworks.stanford.edu](https://earthworks.stanford.edu/) - Stanford's spatial data discovery and access platform
   - locator.stanford.edu - (accessible only to Stanford authenticated users)Stanford-hosted global geocoding and routing services for research and teaching
   - Stanford Spatial Data Infrastructure (SSDI) - PostgreSQL/PostGIS/Geoserver stack that supports spatial data services for Earthworks and Stanford research data
@@ -34,6 +34,8 @@ https://orcid.org/0000-0002-4917-3143
   - Google Earth Engine
   - Planet.com
   - SimplyAnalytics.com
+  - Carto.com
+  - Mapbox.com
 ____
 ### Lecturer
 #### Stanford Doerr School of Sustainability
