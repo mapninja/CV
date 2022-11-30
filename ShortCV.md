@@ -1,10 +1,10 @@
 # Stace Maples
-stacey.maples@gmail.com  
+stacey.maples@gmail.com   
+https://orcid.org/0000-0002-4917-3143   
+[https://github.com/mapninja](https://github.com/mapninja)   
 
 Data Scientist, Location-Based Technologies Expert, Educator, Spatial Data Evangelist, Habitual Tinkerer, Lifetime Learner & Geospatial Swiss Army Knife  
 
-https://orcid.org/0000-0002-4917-3143   
-[https://github.com/mapninja](https://github.com/mapninja)   
 
 ## Professional Objectives
 * To remove barriers to the tools and data that help researchers investigate, quantify and solve problems, using technology
@@ -42,8 +42,7 @@ https://orcid.org/0000-0002-4917-3143
 #### Stanford Doerr School of Sustainability, Stanford University
 ##### Autumn 2020-present
 
-**EARTHSYS144 - _Fundamentals of Geographic Information Science_** - This course presents an overview of current approaches to the use of spatial data and its creation, capture, management, analysis and presentation, in a research context. Topics include modeling of geographic objects and associated data, modeling of geographic space and the conceptual foundations of "spatial thinking," field data collection, basic spatial statistical analysis, remote sensing & the use of satellite-based imagery, "Big Data" and machine learning approaches to spatial data, and cartographic design and presentation.
-
+**EARTHSYS144 - _Fundamentals of Geographic Information Science_** - This course presents an overview of current approaches to the use of spatial data and its creation, capture, management, analysis and presentation, in a research context. Topics include modeling of geographic objects and associated data, modeling of geographic space and the conceptual foundations of "spatial thinking," field data collection, basic spatial statistical analysis, remote sensing & the use of satellite-based imagery, "Big Data" and machine learning approaches to spatial data, and cartographic design and presentation  
 
 ### DJ/Radio Personality  
 #### KZSU 90.1 FM, Stanford  
@@ -51,7 +50,7 @@ https://orcid.org/0000-0002-4917-3143
 
 - [KZSU DJ Profile Page](https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428)  
 - [https://soundcloud.com/mapninja](https://soundcloud.com/mapninja)
--
+
 ### Geospatial Manager
 #### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University  
 ##### Jan 2015-March 2021
@@ -60,16 +59,15 @@ https://orcid.org/0000-0002-4917-3143
 #### Yale University Library Map Department
 ##### Sept 2010 - Jan 2015
 
-
 ### Geographic Information Systems Assistant & Instruction Specialist  
 #### Yale University Library Map Department
 ##### Aug 2005 - Sept 2010
 
-
 ### Research Assistant / Teaching Assistant  
 #### University of Texas at Dallas
 ##### Aug 2003 to Aug 2005  
-____
+
+
 ## Teaching   
 - ##### EARTHSYS 144 / ESS 164: Fundamentals of Geographic Information Science (GIS), Autumn Quarter 2020-present  
 - ##### BigEarthHacks @ Stanford  
@@ -85,10 +83,8 @@ ____
 - ##### Geospatial Law & Policy, Yale Law School, with Dr. Richard Brooks
 - ##### Geophysical Prospecting Methods for Archaeology, Yale University, with Dr. William Honeychurch, 2012-2014
 - ##### The Yale Map Department GIS Workshop Series, 2005-2014
-____
-## Publications
-https://orcid.org/0000-0002-4917-3143  
-____
+
+
 ## Selected Projects
 #### Making Pastoralists Count
 ##### Role: Consulting spatial data scientist & imagery specialist
@@ -97,10 +93,10 @@ Leading a team to automate the use of high-cadence satellite imagery and machine
 Funded by the Bill & Melinda Gates Foundation:  
 https://gcgh.grandchallenges.org/grant/geospatial-methodology-reach-mobile-populations
 #### MotoMeds  
+##### Role: Consulting spatial data scientist and field data specialist.  
 https://nelson.research.pediatrics.med.ufl.edu/motomeds/  
 [Improving Nighttime Access to Care and Treatment (Part 2) (INACT2)](https://clinicaltrials.gov/ct2/show/NCT03943654)  
-##### Role: Consulting spatial data scientist and field data specialist.  
- Designed and implemented survey frameworks for highly-dispersed, unaddressed households in Leogane, Gressier & Les Caye communes, Haiti. Facilitating delivery logistics with Humanitarian OpenStreetMap data and +Codes
+Designed and implemented survey frameworks for highly-dispersed, unaddressed households in Leogane, Gressier & Les Caye communes, Haiti. Facilitating delivery logistics with Humanitarian OpenStreetMap data and +Codes
 
 #### Geo4LibCamp
 ##### Role: Co-founder/Host
@@ -113,31 +109,31 @@ https://iiif.io/community/groups/maps/
 This group works on defining best practice in associating geographic data with IIIF materials. This includes IIIF recipes but also more in depth work to align efforts to link IIIF maps to geospatial systems. The group recently succeeded bringing **navPlace**, and extension for associating spatial data with IIIF digital object, to approval.
 https://preview.iiif.io/api/navplace_extension/api/extension/navplace/   
 
-----
+
 ## Education
 
 #### University of Texas at Dallas - 2005
  * M.Sc. in Geographic Information Sciences & Remote Sensing
  * Graduate Certificates in Geographic Information Systems and Remote Sensing
 
-### National Park Service / Dept. of the Interior - 2004  
+#### National Park Service / Dept. of the Interior - 2004  
  * Certification - Geophysical Survey & Prospection for Cultural Resource Management
 
-### Southern Methodist University - 1997
+#### Southern Methodist University - 1997
  * B.Sc. in Anthropology/Archaeology, Minor in Latin American Studies.
  * Graduated with Honors
  * Departmental Distinction Award
  * Clements Award for Southwestern Studies
  * Edward I. and Peggy C. Fry Award for Academic Excellence in Undergraduate Anthropology
 
-### Ft. Burgwin Archaeological Field School - 1996
+#### Ft. Burgwin Archaeological Field School - 1996
 
-----
+
 
 ## Certifications & Training
 ##### Python I: Fundamentals - Entry-Level Python Programmer Certification, 2022
 ##### Copyright for Librarians and Educators, Stanford University, 2022
 ##### FAA Part 107 UAV License Preparation, Pilot Institute, 2022
 ##### Carpentries Trainer Certification Workshop Feb 2018   
-##### SCRUM Product Owner Certification, Stanford University, Nov 2016  
-##### Intro to SCRUM, Stanford University, Nov 2016
+##### Agile/SCRUM Product Owner Certification, Stanford University, Nov 2016  
+##### Intro to Agile/SCRUM Methods, Stanford University, Nov 2016
