@@ -3,7 +3,6 @@
 
 https://orcid.org/0000-0002-4917-3143   
 [stacey.maples@gmail.com](mailto:stacey.maples@gmail.com)  
-[@mapninja](https://twitter.com/mapninja)  
 [https://github.com/mapninja](https://github.com/mapninja)  
 [https://github.com/StanfordGeospatialCenter](https://github.com/StanfordGeospatialCenter)  
 [http://library.stanford.edu/research/stanford-geospatial-center](http://library.stanford.edu/research/stanford-geospatial-center)  
@@ -20,62 +19,58 @@ On Request
 * To elevate the work of impactful, brilliant people.
 
 ## Expertise
- * More than 20 years of experience using Geographic Information Systems and geospatial data and technology for research and teaching, the last 5 spent as Stanford University's Geospatial Swiss Army Knife, the previous 10 at Yale University.
- * Expertise in a broad range of geospatial and supporting software and hardware
-   * Esri GIS Software Ecosystem, QGIS, OpenGeoportal, Geoblacklight, Geoserver, GDAL, DNRGPS, ENVI, etc...
-   * Web-based GIS platforms, APIs and services, including Geoserver, Google Earth Engine, Carto, Mapbox, OpenStreetMap, OpenLayers, Leaflet.js, etc...
-   * Development and scripting languages, including Python, JavaScript and Unix Shell
-   * Operating systems, including MacOS, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, and RHEL
-   * Application and database platforms, including Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL, PostGIS
-   * Web markup, application platforms and data formats, including HTML, PHP, JavaScript, XML, Markdown, (Geo)JSON, KML, GML and others
-   * Consumer grade GPS Equipment, including extensive experience with Garmin and Trimble hardware
-   * Survey grade mapping equipment, including Dual-Signal GNSS/GPS systems, RTK GPS Systems and total station survey equipment
-   * Mobile Phone/Tablet hardware and software management, including Android, iPhone, ADB, side-loading, unlocking and rooting techniques
-   * Android and iOS data collection software, systems and strategies for field data collection, including Collector for ArcGIS and XForms/XLSForms based systems (ODK, Survey123, EpiCollect5, etc...)
-   * Multimedia editing and production.
-   * Sub-Surface remote sensing techniques, software and hardware, including Ground Penetrating Radar, Magnetometry and Electric Resistivity
-   * Archaeological excavation and survey data collection methods
-   * Kite and Balloon Aerial Photography techniques (I come with my own IR/RGB aerial rig)  
+ * 20+ years of experience building and supporting geospatial data and technology solutions for R1 University research and teaching.
+ * Curation, licensing and acquisition of geospatial data and software services for research and teaching.
  * Planning, implementation and management of long-term GIS projects  
- * Designing and implementing integrated, multi-user geospatial field data collection systems
- * Digitization of cartographic materials, including rare and physically sensitive collections
- * Discovery & Access for Data Collections
+ * Design and implementation of integrated, multi-user geospatial field data collection systems
+ * Digitization of cartographic materials for access and digital applicaitons
+ * Discovery & access for data collections
  * Cartography for research and scholarly publication
  * Writing technical content
- * Designing and delivering GIS training programs
- * Supporting high level use of spatial data, technology and methods in research and teaching
+ * Design and delivery of geospatial data science training programs
  * Administration, distribution and management of enterprise GIS software and services in an academic and research environment
- * Particular enthusiasm for supporting field data collection in remote and challenging environments  
+ * Event planning and coordination
 
 ## Professional Experience  
-## Assistant Director of Geospatial Collections & Services
+### Assistant Director of Geospatial Collections & Services
 #### Branner Earth Sciences Library, Stanford University Libraries
-#### March 2021-present
+##### March 2021-present
 
-* Oversee modern maps & geospatial data operations, collections and services
-* Coordinate development, implementation & maintenance of internal infrastructure services, including:
+* Curate, acquire & manage modern maps & geospatial data operations, collections, services and support
+* Direct Developmen, implement & maintain of internal infrastructure services, including:
   - earthworks.stanford.edu - Stanford's spatial data discovery and access platform
   - locator.stanford.edu - Global geocoding and routing services for research and teaching
-  - Stanford Spatial Data Infrastructure (SSDI) - PostgreSQL/PostGIS/Geoserver stack that supports spatial data services for Earthworks and Stanford researchers
-
-* Head of the Stanford Geospatial Center, a center that supports 1,000+ students and faculty with over 100 workshops, class lectures, and presentations per year and nearly 6,000 one-on-one reference consultations via email, phone and in-person
-* Head of the Branner Earth Sciences Library Map Collections, which  holds a circulating collection of over 300k sheet maps and atlases.
-* Geospatial and modern map collection development and budgeting.
-* Sustain and strengthen the GIS program as the primary provider of geospatial technology services, research consultation, and user education to Stanford University (SU) students, faculty and staff from all departments across campus
-* Oversee the work of the Geospatial Reference and Instruction Specialist, two GIS Assistants as well as numerous hourly and student workers
+  - Stanford Spatial Data Infrastructure (SSDI) - PostgreSQL/PostGIS/GeoServer stack that supports spatial data services for Earthworks and Stanford researchers
+* Head of the Stanford Geospatial Center, supporting 1,000+ students and faculty with over 100 workshops, class lectures, and presentations per year and nearly 6,000 one-on-one reference consultations via email, Zoom, Slack, phone and in-person
+* Supervise Geospatial Reference and Instruction Specialist, Library Specialist 2, two GIS Assistants and numerous hourly, student and project-based staff
 * Design and deliver instruction to geospatial users, assisting in the integration of geospatial skills into the curriculum
-* Collaborate with library staff and faculty members to develop and implement new directions and long-range plans for improving the provision of geospatial services including: creation of curriculum-specific teaching materials and workshops for different disciplines; providing outreach and support services to the main and branch libraries, and providing GIS support specifically for the upcoming David Rumsey Map Center; Working in collaboration with the programmers of the Digital Library Systems and Services group (DLSS) and the Scientific Metadata Librarian on the development of the library's geospatial discovery environment, GeoBlacklight
-* Support the geospatial operations in Branner Library, which include: selecting GIS software, data, hardware and peripherals; training and supervising a student staff person to assist with geospatial services and Website maintenance; managing campus-wide GIS software licenses; and maintaining high-performance computing resources, dedicated to GIS
-* Cultivating relationships with industry partners, beyond their role as vendors, to enrich access to cutting edge technology for researchers at Stanford University
+* Cultivate vendor relationships that enrich access to cutting edge technology for researchers at Stanford University  
+* Design & Administration of the Stanford Geospatial Center SkySat Archive & Tasking Granting Program for Stanford Student Researchers
+
 ----
-## Geospatial Manager
-### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
-#### Jan 2015-March 2021
+### Interim Curator & Head
+#### David Rumsey Map Center at Stanford Libraries
+##### January 2023 - November 2023
+
+* Curate, acquire and manage the historical & antiquarian cartographic special collections of Stanford University
+* Direct operations & programming for The David Rumsey Map Center at Stanford's Green Library
+* Event & Exhibit planning and coordination, including:
+  * Machines Reading Maps Summit 2023
+  * The California Map Society Annual Meeting & Conference
+  * The Barry Lawrence Ruderman Conference on Cartography 2023
+* Administration & Judging of the California Map Society Student Exhibit Curation Contest
+
+----
+### Lecturer, Stanford Doerr School of Sustainability
+
+### Geospatial Manager
+#### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
+##### Jan 2015-March 2021
 ----  
 
-## DJ/Radio Personality  
-### KZSU 90.1 FM, Stanford  
-#### Jan 2016 - Present   
+### DJ/Radio Personality  
+#### KZSU 90.1 FM, Stanford  
+##### Jan 2016 - Present   
 
 [https://soundcloud.com/mapninja](https://soundcloud.com/mapninja)  
 [https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428](https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428)  
@@ -97,6 +92,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  * Print Map reference and research services
  * Management of digitization workflows
  * Management and circulation of GPS and field data collection equipment collection
+
 ----
 ## Geographic Information Systems Assistant & Instruction Specialist  
 ### Yale University Library Map Department
@@ -105,6 +101,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  * Technical support for the use of GIS and Geotech in research and teaching
  * Collaboration in Faculty research & curriculum development
  * Research GIS Infrastructure Administration, including System and Database Administration
+
 ----
 ## Research Assistant / Teaching Assistant  
 ### University of Texas at Dallas
@@ -121,6 +118,7 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
   * World Regional Geography  
   * Transportation & Logistics  
   * Internet Mapping with ArcIMS
+
 ----
 ## Owner/Manager
 ### Skin&Bones
@@ -132,7 +130,8 @@ Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon 
  * Customer relations, sales
  * Vendor relations, purchasing
  * Advertising and promotion strategy, design and copy
- * Web-master since 1996
+ * Webmaster
+
 ----
 ## Teaching   
 ### EARTHSYS 144: Fundamentals of Geographic Information Science (GIS) (ESS 164)  
@@ -154,27 +153,35 @@ Annual summer bootcamp designed to support the new GIS Center at my Alma Mater, 
 ### GeoTech, Bishop Dunne High School, Dallas, TX.  
 2010-2020  
 
-Attendee/Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. Honestly one of my favorite things I do.
+Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. Honestly one of my favorite things I do.
 
 ### EARTH 1B: Know Your Planet: Big Earth, Stanford University - Winter Quarter 2018 - present
 Foundations of "Big Earth" data, including public and private-sector Earth imaging services, crowd-sourced global-scale geospatial data, trajectory and data streams. Visualization as analysis,
 
 ### Wrigley Field Program in Hawaii, Stanford School of Earth, Energy & Environmental Sciences, 2016 - present  
 Created and delivered content for a 3-day QGIS Spatial Analysis Module for the Wrigley Field Program, November 2016. Four components, including: An Introduction to Spatial Analysis; Geoprocessing and Spatial Data Carpentry; Imagery Analysis; and Field Data Collection. Data acquisition support from DigitalGlobe.
+
 ### Stanford Summer Research College (SRC), 2015-present
 Created and delivered content for a 3-day Spatial Analysis Bootcamp, using ArcGIS Suite of software, and including: An Introduction to GIS with ArcGIS, Geoprocessing with ArcGIS, Data Creation Workflows with ArcGIS, and Field Data Collection with ArcGIS.
+
 ### The Stanford Geospatial Center GIS Workshop Series, 2015-present
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either QGIS, ArcGIS, ArcGIS Pro or R Studio depending on user needs and interests.
+
 ### MODS Summer Graduate Student Orientation Program, Yale School of Forestry & Environmental Studies, 2006-2014
 Applied GIS for Urban Forestry applications including field data collection, management and analysis, using the ongoing and Urban Resource Initiative's New Haven Street Tree Survey. Students are oriented to the technology stack used (currently ArcGIS Server and Collector for ArcGIS based), trained and deployed for street tree survey field data collection, then provided instruction in the management and analysis of collected data.
+
 ### Geospatial Law & Policy, Yale Law School, 2010. Co-taught with Dr. Richard Brooks.
 Seminar exploring the intersection of geospatial and location-based technologies, and the legal system. Guest lectures included: Pete Schreiber, Esri General Counsel; Mikel Maron, mapgive.state.gov and OSM Foundation; Dr. Scott Edwards, Project Manager, Science for Human Rights, Amnesty International.
+
 ### GIS for Archaeology, Yale University. Co-taught with Dr. William Honeychurch
 An introductory level credit course in applications of Geographic Information Systems and location based technologies in archaeological investigation and research.
+
 ### Geophysical Prospecting Methods for Archaeology, Yale University. Co-taught with William Honeychurch.
 The application of various geophysical prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Magnetic Methods, Ground Penetrating Radar, data fusion and interpretation.
-### The Yale Map Department GIS Workshop Series, 2005-2014.
+
+### The Yale Map Department GIS Workshop Series, 2005-2014.  
 An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either ArcGIS, or QGIS, depending on user needs and interests.  
+
 ----
 ## Publications
 Current publications can be found at:  
@@ -182,6 +189,7 @@ Current publications can be found at:
 https://orcid.org/0000-0002-4917-3143  
 &   
 [https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=uaB5YsQAAAAJ&view_op=list_works&sortby=pubdate)  
+
 ----  
 ## Selected Projects
 ### Nomadic Pastoralist Settlement Survey
@@ -206,7 +214,7 @@ https://nelson.research.pediatrics.med.ufl.edu/motomeds/
 
 Part of the Improving Nighttime Access to Care and Treatment (INACT) Project.
 
-Consulting spatial data scientist and field data specialist. Designed and implemented survey frameworks for highly-dispersed, unaddressed households in Leogane and Gressier communnes, Haiti.
+Consulting spatial data scientist and field data specialist. Designed and implemented survey frameworks for highly-dispersed, unaddressed households in Les Cayes and Gressier communnes, Haiti.
 
 ### Outbreak Responder  
 
@@ -250,6 +258,7 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
    "The Photogrammar Project is a Yale University Public Humanities Project designed to offer an interactive web-based open source visualization   platform for the one-hundred and sixty-thousand photographs created by the federal government from 1935 to 1943 under the Farm Securities Administration and Office of War Information (FSA-OWI)."
 
   Working closely with other members of the Photogrammar Team, I have been responsible for the creation and management of the geospatial data for the project. This has included geocoding ninety-thousand images (~5000 unique locations) using various geocoding platforms and APIs. The bulk of the geocoding work was done using Tulane University's Geolocate API, through Google/OpenRefine. Work also included the attachment of location information to the existing collection metadata and association with historic county boundary data, using SQL, for visualization in the CartoDB platform.
+
 ----
 
 ## Education
@@ -267,7 +276,6 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
 ##### Intro to SCRUM, Stanford University, Nov 2016
 ##### QGIS Academy, DelMar College , 2015
 ##### Google Geo for Good Summit- 2015, 2016, 2017, 2018
-##### Google Earth Engine Summit- 2015, 2016, 2017, 2018
 ##### Google Geo for Higher Ed Summit, 2013
 ##### Esri T3G (Teachers Teaching Teachers GIS) Institute, June 13-18th 2010
 ##### ESRI Data Management in the Multiuser Geodatabase / ArcGIS Server Enterprise Configuration and Tuning for SQL Server, July 2009
@@ -290,3 +298,14 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
  * Archaeological field methods and writing
  * Total Station survey
  * GPS Survey  
+
+## Technical Skills
+
+   * Programming & Development languages: Python, JavaScript, HTML, markdown, PHP, XML & Unix Shell
+   * Operating systems: MacOS, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, RHEL, Android, iOS
+   * Application and database: Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL, PostGIS
+   * Consumer & survey-grade mapping equipment: GNSS/GPS systems, RTK and total station survey equipment
+   * Sub-Surface remote sensing: Ground Penetrating Radar, Magnetometry & Electric Resistivity
+   * Multimedia editing and production
+   * Archaeological excavation and survey data collection methods
+   * Kite, Balloon & UAV-based Aerial Photography techniques
