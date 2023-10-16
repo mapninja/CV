@@ -36,10 +36,17 @@ On Request
 #### Branner Earth Sciences Library, Stanford University Libraries
 ##### March 2021-present
 
-* Curate, acquire & manage modern maps & geospatial data operations, collections, services and support
-* Direct Developmen, implement & maintain of internal infrastructure services, including:
-  - earthworks.stanford.edu - Stanford's spatial data discovery and access platform
-  - locator.stanford.edu - Global geocoding and routing services for research and teaching
+* Curate, acquire & manage modern maps & geospatial data operations, collections, services and support. Significant acquisitions include:
+  - Esri Higher Eduction Site License
+  - Here Inc. global geocoding & routing database
+  - Planet.com Enterprise Education & Research Subscription
+  - Google Earth Engine Enterprise Access
+  - CARTO.com Enterprise
+  - CoreLogic Real Estate Database
+  - SimplyAnalytics.com
+* Direct Development, implementation & maintenance of internal spatial data infrastructure & services, including:
+  - [earthworks.stanford.edu]() - Stanford's spatial data discovery and access platform
+  - [locator.stanford.edu]() - Esri ArcGIS Server-based global geocoding and routing services for research and teaching
   - Stanford Spatial Data Infrastructure (SSDI) - PostgreSQL/PostGIS/GeoServer stack that supports spatial data services for Earthworks and Stanford researchers
 * Head of the Stanford Geospatial Center, supporting 1,000+ students and faculty with over 100 workshops, class lectures, and presentations per year and nearly 6,000 one-on-one reference consultations via email, Zoom, Slack, phone and in-person
 * Supervise Geospatial Reference and Instruction Specialist, Library Specialist 2, two GIS Assistants and numerous hourly, student and project-based staff
@@ -48,6 +55,7 @@ On Request
 * Design & Administration of the Stanford Geospatial Center SkySat Archive & Tasking Granting Program for Stanford Student Researchers
 
 ----
+
 ### Interim Curator & Head
 #### David Rumsey Map Center at Stanford Libraries
 ##### January 2023 - November 2023
@@ -61,12 +69,16 @@ On Request
 * Administration & Judging of the California Map Society Student Exhibit Curation Contest
 
 ----
+
+
 ### Lecturer, Stanford Doerr School of Sustainability
 
 ### Geospatial Manager
 #### Stanford Geospatial Center, Branner Earth Sciences Library, Stanford University
 ##### Jan 2015-March 2021
-----  
+
+
+----
 
 ### DJ/Radio Personality  
 #### KZSU 90.1 FM, Stanford  
