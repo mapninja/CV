@@ -1,37 +1,38 @@
-# Stace D. Maples
+# Stace D. Maples  
+[stacey.maples@gmail.com](mailto:stacey.maples@gmail.com)  
+
 **Location-Based Technologies Expert, Spatial Data Science Educator & Evangelist, Geospatial Swiss Army Knife, Habitual Tinkerer, Problem-solver & Lifetime Learner**  
 
-https://orcid.org/0000-0002-4917-3143   
-[stacey.maples@gmail.com](mailto:stacey.maples@gmail.com)  
+https://orcid.org/0000-0002-4917-3143    
 [https://github.com/mapninja](https://github.com/mapninja)  
-[https://github.com/StanfordGeospatialCenter](https://github.com/StanfordGeospatialCenter)  
-[http://library.stanford.edu/research/stanford-geospatial-center](http://library.stanford.edu/research/stanford-geospatial-center)  
-https://stanford.maps.arcgis.com/home/index.html   
 
 ## References
 On Request  
 
 ## Professional Objective
-* To allow researchers to do more meaningful work by helping them investigate, quantify and solve spatial problems with technology.  
+* To allow researchers to do more meaningful work by helping them investigate, quantify and solve spatial problems with technology  
 
 ## Expertise
- * 20+ years of experience building and supporting geospatial data and technology services & solutions for research and teaching in R1 universities.
- * Curation, licensing and acquisition of geospatial data and software services for research and teaching.
+ * 20+ years of experience building and supporting geospatial data and technology services & solutions for research and teaching in R1 universities
+ * Geospatial Data Science and Remote Sensing for Public Health and Environmental applications
+ * Curation, licensing, acquisition and distribution of geospatial data and software services for research and teaching
+ * Discovery & access for data collections
  * Planning, implementation and management of long-term GIS projects  
  * Design and implementation of integrated, multi-user geospatial field data collection systems
  * Digitization of cartographic materials for access and digital applicaitons
- * Discovery & access for data collections
- * Design and delivery of geospatial data science training programs
  * Event planning and coordination
+ * Management and administration of spatial data support programs
+ * Agile Development practices
 
 ## Professional Experience  
 ### Assistant Director of Geospatial Collections & Services
-#### Branner Earth Sciences Library, Stanford University Libraries
+#### Stanford University Libraries
 ##### March 2021-present
 
-* Curate, acquire & manage modern maps & geospatial data operations, collections, services and support. Significant acquisitions & assets managed include:
+* Develop, curate, acquire & manage modern maps & geospatial data operations, collections, services and support. Significant acquisitions & assets managed include:
   - Esri Higher Eduction Site License
-  - ArcGIS Online sub-org with ~
+  - ArcGIS Online sub-org with ~3000 users
+  - ArcGIS Server-based global geocoding and routing services for research
   - Here Inc. global geocoding & routing database
   - Planet.com Enterprise Education & Research Subscription
   - Google Earth Engine Enterprise Access
@@ -39,10 +40,10 @@ On Request
   - CoreLogic Real Estate Database
   - SimplyAnalytics.com
 * Development, implementation & maintenance of internal spatial data infrastructure & services, including:
-  - [earthworks.stanford.edu]() - Stanford's spatial data discovery and access platform
-  - [locator.stanford.edu]() - Esri ArcGIS Server-based global geocoding and routing services for research and teaching
-  - Stanford Spatial Data Infrastructure (SSDI) - PostgreSQL/PostGIS/GeoServer stack that supports spatial data services for Earthworks and Stanford researcher data
-* Head of the Stanford Geospatial Center (SGC), supporting 1,000+ students and faculty with over 100 workshops, class lectures, and presentations per year and nearly 6,000 one-on-one reference consultations via email, Zoom, Slack, phone and in-person
+  - [earthworks.stanford.edu]() - Product Owner. Stanford's spatial data discovery and access platform
+  - locator.stanford.edu (Stanford IP, only) - Esri ArcGIS Server-based global geocoding and routing services for research and teaching
+  - Stanford Spatial Data Infrastructure (SSDI) - PostgreSQL/PostGIS/GeoServer stack supporting spatial data services for Earthworks and Stanford research data
+* Head of the Stanford Geospatial Center (SGC), supporting 1,000+ students and faculty with over 100 workshops, class lectures, and presentations per year and nearly 6,000 one-on-one reference consultations  
 * Direct supervision and management of SGC staff, including: 
   * Geospatial Reference and Instruction Specialist
   * Library Specialist 2
@@ -102,7 +103,7 @@ Spring Quarter 2018-present
 [https://soundcloud.com/mapninja](https://soundcloud.com/mapninja)  
 [https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428](https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428)  
 
-Music DJ on the Wednesday 3-5pm **Library Show** playing everything from Conlon Nancarrow's experiments with composition beyond human ability for player piano to the latest psych-rock from Ty Segall. Occasional interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer. Instructor in the KZSU Air Clear Training curriculum for new DJs. Writing, voice and production of PSA and promotional spots.  
+Music DJ playing everything from Conlon Nancarrow's experiments with "compositions beyond human ability" for player piano, to the latest psych-rock from Ty Segall. Interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer. Instructor in the KZSU Air Clear Training curriculum for new DJs. Writing, voice and production of PSA and promotional spots.  
 
 ----
 ### Geographic Information Systems Specialist & Instruction Coordinator
@@ -280,19 +281,9 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
 ## Education
 ##### FAA Part 107 License Preparation, Pilot Institute, 2020
 ##### Carpentries Trainer Certification Workshop Feb 2018  
-##### FOSS4GNA 2019 - Using the other fun parts of PostgreSQL along with PostGIS
-##### FOSS4GNA 2019 - How to create STAC catalogs and APIs from your own data
-##### FOSS4GNA 2019 - Satellite Imagery Analysis with Python
-##### FOSS4GNA 2018 - Satellite Imagery Analysis with Python
-##### FOSS4GNA 2017 - Browser-based Geoprocessing with Turf.js and Leaflet  
-##### FOSS4GNA 2017 - Slippy maps, you complete me: A friendly step-by-step guide to serving up your own slippy web map tiles with tilehut.js   
-##### FOSS4GNA 2017 - Hands on with GDAL/OGR: a Gentle Introduction to Command Line GIS  
-##### FOSS4GNA 2017 - From WebODM to QGIS  
 ##### SCRUM Product Owner Certification, Stanford University, Nov 2016  
 ##### Intro to SCRUM, Stanford University, Nov 2016
 ##### QGIS Academy, DelMar College , 2015
-##### Google Geo for Good Summit- 2015, 2016, 2017, 2018
-##### Google Geo for Higher Ed Summit, 2013
 ##### Esri T3G (Teachers Teaching Teachers GIS) Institute, June 13-18th 2010
 ##### ESRI Data Management in the Multiuser Geodatabase / ArcGIS Server Enterprise Configuration and Tuning for SQL Server, July 2009
 
@@ -319,6 +310,7 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
 
    * GIS & Spatial: Esri, R, QGIS, OSGEO, FOSS4G, Google Earth Engine, Google Cloud Platform, Mapbox APIs, CARTO, SQL, PostGIS
    * Programming & Development languages: Python, JavaScript, HTML, markdown, PHP, XML & Unix Shell
+   * Agile/SCRUM development practices
    * Operating systems: MacOS, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, RHEL, Android, iOS
    * Application and database: Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL, PostGIS
    * Consumer & survey-grade mapping equipment: GNSS/GPS systems, RTK and total station survey equipment
