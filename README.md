@@ -10,7 +10,7 @@ https://orcid.org/0000-0002-4917-3143
 On Request  
 
 ## Professional Objective
-* To allow researchers to do more meaningful work by helping them investigate, quantify and solve spatial problems with technology  
+* To allow researchers to do more meaningful work by helping them investigate, quantify and solve spatial problems.
 
 ## Expertise
  * 20+ years of experience building and supporting geospatial data and technology services & solutions for research and teaching in R1 universities
@@ -19,14 +19,13 @@ On Request
  * Discovery & access for data collections
  * Planning, implementation and management of long-term GIS projects  
  * Design and implementation of integrated, multi-user geospatial field data collection systems
- * Digitization of cartographic materials for access and digital applicaitons
+ * Digitization of cartographic materials for access and digital applications
  * Event planning and coordination
  * Management and administration of spatial data support programs
  * Agile Development practices
 
 ## Professional Experience  
-### Assistant Director of Geospatial Collections & Services
-#### Stanford University Libraries
+### Assistant Director of Geospatial Collections & Services, Stanford University Libraries
 ##### March 2021-present
 
 * Develop, curate, acquire & manage modern maps & geospatial data operations, collections, services and support. Significant acquisitions & assets managed include:
@@ -55,8 +54,7 @@ On Request
 
 ----
 
-### Interim Curator & Head
-#### David Rumsey Map Center at Stanford Libraries
+### Interim Curator & Head, David Rumsey Map Center at Stanford Libraries
 ##### January 2023 - November 2023
 
 * Curate, acquire and manage the historical & antiquarian cartographic special collections of Stanford University
@@ -70,21 +68,20 @@ On Request
 * Management and oversight of ongoing transfer of Rumsey Collection materials from D. Rumsey's personal studio, to the David Rumsey Map Center. 
 * Management and oversight of the Stanford Map Collection Digital Philanthropy Program
 * Event & Exhibit planning and coordination, including:
-  * Machines Reading Maps Summit 2023
+  * [Machines Reading Maps Summit 2023](https://machines-reading-maps.github.io/)
   * [The California Map Society Annual Meeting & Conference](https://californiamapsociety.org/event-5296754)
   * [The Barry Lawrence Ruderman Conference on Cartography 2023](https://ruderman.sites.stanford.edu/)
 * Administration & Judging of the California Map Society Student Exhibit Curation Contest
 
 ----
 
-### Lecturer 
-#### Stanford Doerr School of Sustainability, Stanford University
+### Lecturer, Stanford Doerr School of Sustainability, Stanford University
 
 ##### [EARTHSYS 144: Fundamentals of Geographic Information Science (GIS) (ESS 164)](https://explorecourses.stanford.edu/search?q=EARTHSYS+144&view=catalog&page=0&academicYear=20202021&filter-term-Autumn=on&filter-ger-GERDBNatSci=on&collapse=%2C6%2C7%2C&filter-coursestatus-Active=on  )  
 Autumn Quarter 2020-present    
 
 
-### [CEE 165H: Big Earth Hackathon Wildland Fire Challenge](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=cee+165h&collapse=)   
+##### [CEE 165H: Big Earth Hackathon Wildland Fire Challenge](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=cee+165h&collapse=)   
 
 Spring Quarter 2018-present 
 
@@ -106,8 +103,7 @@ Spring Quarter 2018-present
 Music DJ playing everything from Conlon Nancarrow's experiments with "compositions beyond human ability" for player piano, to the latest psych-rock from Ty Segall. Interviews have included "Hannibal" author Patrick N. Hunt, slowcore luminary Kris Wheat of Bedhead and Angie Lee, HigherEd liason for GIS behemoth, Esri. Regular music reviewer. Instructor in the KZSU Air Clear Training curriculum for new DJs. Writing, voice and production of PSA and promotional spots.  
 
 ----
-### Geographic Information Systems Specialist & Instruction Coordinator
-#### Yale University Library Map Department
+### Geographic Information Systems Specialist & Instruction Coordinator, Yale University Library, Map Collection
 ##### Sept 2010 - Jan 2015
  * Creation, coordination and teaching of The Yale Map Department's Geospatial Technology Instruction Program
  * Administration of Esri, Google Earth/Maps and CartoDB Enterprise Education Site Licenses
@@ -122,8 +118,7 @@ Music DJ playing everything from Conlon Nancarrow's experiments with "compositio
  * Management and circulation of GPS and field data collection equipment collection
 
 ----
-### Geographic Information Systems Assistant & Instruction Specialist  
-#### Yale University Library Map Department
+### Geographic Information Systems Assistant & Instruction Specialist, Yale University Library Map Collection
 ##### Aug 2005 - Sept 2010
  * Creation, coordination and teaching of The Yale Map Department's Geospatial Technology Instruction Program
  * Technical support for the use of spatial data and technologies in research and teaching
@@ -131,8 +126,7 @@ Music DJ playing everything from Conlon Nancarrow's experiments with "compositio
  * Research GIS Infrastructure Administration, including system and database administration
 
 ----
-### Research Assistant / Teaching Assistant  
-#### University of Texas at Dallas
+### Research / Teaching Assistant, University of Texas at Dallas
 ##### Aug 2003 to Aug 2005  
  * Planning and execution of various research projects  
  * GIS software (ESRI) support and instruction  
@@ -148,8 +142,7 @@ Music DJ playing everything from Conlon Nancarrow's experiments with "compositio
   * Internet Mapping with ArcIMS
 
 ----
-### Owner/Manager
-#### Skin&Bones
+### Owner/Manager, Skin&Bones
 ##### June 1989 – Sept 2004
  * 15 years of Supervisory/Managerial experience in a Small Business (8-15 	employees) environment
  * Human resources, payroll, budget planning and implementation
@@ -231,7 +224,7 @@ https://nelson.research.pediatrics.med.ufl.edu/motomeds/
 
 Part of the Improving Nighttime Access to Care and Treatment (INACT) Project.
 
-Consulting spatial data scientist and field data specialist. Designed and implemented survey frameworks for highly-dispersed, unaddressed households in Les Cayes and Gressier communnes, Haiti.
+Consulting spatial data scientist and field data specialist. Designed and implemented survey frameworks for highly-dispersed, unaddressed households in Les Cayes, Leogane and Gressier communes, Haiti.
 
 ### Outbreak Responder  
 
@@ -240,7 +233,7 @@ The app:
 
 [Evaluation of a Smartphone Decision-Support Tool for Diarrheal Disease Management in a Resource-Limited Setting](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005290)
 
-The Outbreak Responder is a decision-support and epidemiology platform for use during diarrheal disease outbreaks. There are two components. The first component is a rehydration calculator that automates World Health Organization guidelines for how to assess and rehydrate a patient with diarrheal disease. The calculator is designed to be used in 30 seconds and does not require an account or connectivity. The second component is intended for the Outbreak Response Team that may include epidemiologists, public health administrators, and clinicians. This component requires a login/password. Patients are organized in a registry with icons that designate disease severity. Each patient record contains basic demographic, clinical, laboratory, and geospatial data. All aspects of the platform are encrypted and secure to industry standard. Data are visualized on a secure dashboard that helps administrators optimize resource allocation during rapidly evolving outbreaks. The dashboard also helps clinicians improve the quality of care delivered at the bedside. The design leverages geospatial mapping to identify critical actionable data. Outbreak Responder is designed for use in developing countries with high diarrheal disease burden. It was built by an international team of clinical and computer science experts led by Eric Nelson, MD., PhD at Stanford University.
+The Outbreak Responder is a decision-support and epidemiology platform for use during diarrheal disease outbreaks. There are two components. The first component is a rehydration calculator that automates World Health Organization guidelines for how to assess and rehydrate a patient with diarrheal disease. The calculator is designed to be used in 30 seconds and does not require an account or connectivity. The second component is intended for the Outbreak Response Team that may include epidemiologists, public health administrators, and clinicians. The design leverages geospatial mapping to identify critical actionable data. Outbreak Responder is designed for use in developing countries with high diarrheal disease burden. It was built by an international team of clinical and computer science experts led by Eric Nelson, MD., PhD at Stanford University.
 
 ### Geo4LibCamp
 ##### Role: Co-founder/Host
@@ -250,8 +243,7 @@ Geo4LibCamp is an annual unconference hosted at Stanford University. A three day
 ### iiif + Maps Community
 ##### Role: Co-founder/Co-Chair
 https://iiif.io/community/groups/maps/  
-This group works on defining best practice in associating geographical information with iiif materials. This includes iiif recipes but also more in depth work to align efforts to link iiif maps to geospatial systems. The group is creating a JSON schema suited to the needs of the IIIF community, including how to incorporate this connective schema with IIIF manifests.
-
+This group works on developing extensions that enable, and defining best practice in, associating geographical information with [iiif image materials](https://iiif.io/). This includes iiif recipes but also more in depth work to align efforts to link iiif maps to geospatial systems. The group has produced two extension to the iiif imagery framework: [the navPlace extension](https://iiif.io/api/extension/navplace/), which allows geographic data associated with digital objects and collections to be provided in a structured manner; and [the geoRef Extension](https://iiif.io/api/extension/georef/), which allows digitized cartographic collections to be [placed in their geographic context](https://felt.com/map/Stanford-IIIF-Allmaps-org-GX3HHODYTMqFHNrecujuyD?loc=52.38274,-355.17262,12.92z).
 ### GISDay@Stanford
 
 Stanford's annual celebration of all things location, including the cutting edge of geospatial technologies. Development, planning and coordination of the event, 3 years running. The schedules speak for themselves. Off-the-hook fun for geonerds.
@@ -260,12 +252,6 @@ Stanford's annual celebration of all things location, including the cutting edge
 2016 - [https://stanfordgisday2016.sched.com/](https://stanfordgisday2016.sched.com/)  
 2017 - [https://gisdaystanford2017.sched.com/](https://gisdaystanford2017.sched.com/)  
 2018 - [https://gisdaystanford2018.sched.com/](https://gisdaystanford2018.sched.com/)
-
-### The Urban Resource Initiative New Haven Street Tree Survey
-
-[https://uri.yale.edu/maps](https://uri.yale.edu/maps)  
-
-A Continuing project to map the more than 30k street trees in The City of New Haven. Initial conceived as a field data collection exercise for the Urban segment of The Yale School of Forestry's 3-week graduate orientation, "MODS," this is an ongoing survey, now in it's 6th year. The project's core is an ArcSDE/MSSQL database of the 30k tree "locations" and more than 70k inventory records associated with them. As software platforms have evolved and suitable hardware has become ubiquitous, the project has gone from using a small suite of Trimble Juno units with ArcPad's "Check-in/Check-out" methods, to now creating feature services from ArcGIS for Server, through ArcGIS Online for Organizations, and be deployed for offline editing through Collector for ArcGIS on iOS and Android. The latest iteration of the project has made it possible for students to use their own equipment to survey, without incurring cellular data costs, and freeing the project from the cost of purchasing and maintaining equipment.
 
 ### Photogrammar
 [photogrammar.yale.edu](http://photogrammar.yale.edu/)  
@@ -311,8 +297,6 @@ Yale University's first NEH Digital Humanities Start-Up Grant [[HD-51421-11]](ht
    * GIS & Spatial: Esri, R, QGIS, OSGEO, FOSS4G, Google Earth Engine, Google Cloud Platform, Mapbox APIs, CARTO, SQL, PostGIS
    * Programming & Development languages: Python, JavaScript, HTML, markdown, PHP, XML & Unix Shell
    * Agile/SCRUM development practices
-   * Operating systems: MacOS, Windows Desktop and Server, Debian GNU/Linux, Ubuntu GNU/Linux, RHEL, Android, iOS
-   * Application and database: Apache, IIS, Tomcat, MS SQL Server, MySQL, PostgreSQL, PostGIS
    * Consumer & survey-grade mapping equipment: GNSS/GPS systems, RTK and total station survey equipment
    * Sub-Surface remote sensing: Ground Penetrating Radar, Magnetometry & Electric Resistivity
    * Multimedia editing and production
