@@ -16,12 +16,12 @@ On Request
  * 20+ years of experience building and supporting geospatial data and technology services & solutions for research and teaching in R1 universities
  * Geospatial Data Science and Remote Sensing for Public Health and Environmental applications
  * Curation, licensing, acquisition and distribution of geospatial data and software services for research and teaching
+ * Creation, management and administration of spatial data support programs
  * Discovery & access for data collections
  * Planning, implementation and management of long-term GIS projects  
  * Design and implementation of integrated, multi-user geospatial field data collection systems
  * Digitization of cartographic materials for access and digital applications
  * Event planning and coordination
- * Management and administration of spatial data support programs
  * Agile Development practices
 
 ## Professional Experience  
@@ -155,85 +155,46 @@ Music DJ playing everything from Conlon Nancarrow's experiments with "compositio
 ----
 ## Additional Teaching   
 
-### SMU Summer Geospatial Bootcamp
-2015 - 2020  
-
-Annual summer bootcamp designed to support the new GIS Center at my Alma Mater, Southern Methodist University.
-
-### GeoTech, Bishop Dunne High School, Dallas, TX.  
-2010-2020  
-
-Instructor. Introductory level workshop topics for K-12 teachers to help expand the use spatial technologies in research and teaching. Honestly one of my favorite things I do.
-
-### EARTH 1B: Know Your Planet: Big Earth, Stanford University - Winter Quarter 2018 - present
-Foundations of "Big Earth" data, including public and private-sector Earth imaging services, crowd-sourced global-scale geospatial data, trajectory and data streams. Visualization as analysis,
-
-### Wrigley Field Program in Hawaii, Stanford School of Earth, Energy & Environmental Sciences, 2016 - present  
-Created and delivered content for a 3-day Spatial Analysis Module for the Wrigley Field Program, November 2016. Four components, including: An Introduction to Spatial Analysis; Geoprocessing and Spatial Data Carpentry; Imagery Analysis; and Field Data Collection. Data acquisition support from DigitalGlobe.
-
-### Stanford Summer Research College (SRC), 2015-present
-Created and delivered content for a 3-day Spatial Analysis Bootcamp, using ArcGIS Suite of software, and including: An Introduction to GIS with ArcGIS, Geoprocessing with ArcGIS, Data Creation Workflows with ArcGIS, and Field Data Collection with ArcGIS.
-
-### The Stanford Geospatial Center GIS Workshop Series, 2015-present
-An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops are delivered on either QGIS, ArcGIS, ArcGIS Pro or R Studio depending on user needs and interests.
-
-### MODS Summer Graduate Student Orientation Program, Yale School of Forestry & Environmental Studies, 2006-2014
-Applied GIS for Urban Forestry applications including field data collection, management and analysis, using the ongoing and Urban Resource Initiative's New Haven Street Tree Survey. Students are oriented to the technology stack used (currently ArcGIS Server and Collector for ArcGIS based), trained and deployed for street tree survey field data collection, then provided instruction in the management and analysis of collected data.
-
-### Geospatial Law & Policy, Yale Law School, 2010. Co-taught with Dr. Richard Brooks.
+* SMU Summer Geospatial Bootcamp: 2015 - 2020   
+* GeoTech, Bishop Dunne High School, Dallas, TX: 2010-2020   
+* EARTH 1B: Know Your Planet: Big Earth, Stanford University - Winter Quarter 2018 - present  
+* Wrigley Field Program in Hawaii, Stanford School of Earth, Energy & Environmental Sciences, 2016 - present   
+* Stanford Summer Research College (SRC), 2015-present  
+* The Stanford Geospatial Center GIS Workshop Series, 2015-present  
+* MODS Summer Graduate Student Orientation Program, Yale School of Forestry & Environmental Studies, 2006-2014  
+* Geospatial Law & Policy, Yale Law School, 2010. Co-taught with Dr. Richard Brooks.
 Seminar exploring the intersection of geospatial and location-based technologies, and the legal system. Guest lectures included: Pete Schreiber, Esri General Counsel; Mikel Maron, mapgive.state.gov and OSM Foundation; Dr. Scott Edwards, Project Manager, Science for Human Rights, Amnesty International.
-
-### GIS for Archaeology, Yale University. Co-taught with Dr. William Honeychurch
-An introductory level credit course in applications of Geographic Information Systems and location based technologies in archaeological investigation and research.
-
-### Geophysical Prospecting Methods for Archaeology, Yale University. Co-taught with William Honeychurch.
-The application of various geophysical prospecting methods in non-invasive investigation of archaeological remains. Including: Survey design, Resistivity Methods, Magnetic Methods, Ground Penetrating Radar, data fusion and interpretation.
-
-### The Yale Map Department GIS Workshop Series, 2005-2014.  
-An ongoing workshop series, with the objective of delivering practical skills in GIS data creation, management, analysis and presentation, specifically for research and teaching. Workshops were delivered on either ArcGIS, or QGIS, depending on user needs and interests.  
-
-----
-## Publications
-Current publications can be found at:  
-
-https://orcid.org/0000-0002-4917-3143  
-&   
-[https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=uaB5YsQAAAAJ&view_op=list_works&sortby=pubdate)  
+* GIS for Archaeology, Yale University. Co-taught with Dr. William Honeychurch
+* Geophysical Prospecting Methods for Archaeology, Yale University. Co-taught with William Honeychurch.
+* The Yale Map Department GIS Workshop Series, 2005-2014.  
 
 ----  
 ## Selected Projects
-### Nomadic Pastoralist Settlement Survey
+### [Nomadic Pastoralist Settlement Survey](https://www.youtube.com/watch?v=M0VBNW87ArI)
 
-https://www.youtube.com/watch?v=M0VBNW87ArI  
-
-Currently funded by the Bill & Melinda Gates Foundation:  
-https://gcgh.grandchallenges.org/grant/geospatial-methodology-reach-mobile-populations
-
-see: "Surveying Nomadic Health" [http://trajectorymagazine.com/digitalglobe-foundation-celebrates-10-years/](http://trajectorymagazine.com/digitalglobe-foundation-celebrates-10-years/)   
+Funding: [Bill & Melinda Gates Foundation ](https://gcgh.grandchallenges.org/grant/geospatial-methodology-reach-mobile-populations)  
 
 StoryMap (beta):
 [https://arcg.is/0XGrDO](https://arcg.is/0XGrDO)
 
 
-The Stanford Geospatial Center is now working with School of Medicine researcher, Hannah Binzen Wild, to incorporate lessons learned in the field and to automate the use of high-cadence satellite imagery, machine learning in identifying the locations of active nomadic pastoralist settlements. Remote in the extreme, widely dispersed and highly mobile, the difficulty of conducting complete settlement surveys has resulted in the Nyangatom, and populations like them, being missed by most public health needs assessments in the past. Wild's aim is to perform the first randomized surveys on these types of populations in order to provide baseline data for the evaluation of future public health interventions.
+In one of its first grants, DGF released imagery to Stanford for analysis of health in nomadic pastoral populations in Ethiopia. Hannah Wild & SGC Team used the data to locate mobile settlements quickly enough to develop and deliver hundreds of surveys to people living in the remote Nyangatom region of Ethiopia’s Lower Omo Valley. 
 
-### MotoMeds  
-https://nelson.research.pediatrics.med.ufl.edu/motomeds/
+### [MotoMeds](https://nelson.research.pediatrics.med.ufl.edu/motomeds/)  
+
 
 [Improving Nighttime Access to Care and Treatment (Part 2) (INACT2)](https://clinicaltrials.gov/ct2/show/NCT03943654)
 
-Part of the Improving Nighttime Access to Care and Treatment (INACT) Project.
-
 Consulting spatial data scientist and field data specialist. Designed and implemented survey frameworks for highly-dispersed, unaddressed households in Les Cayes, Leogane and Gressier communes, Haiti.
 
-### Outbreak Responder  
+### [Outbreak Responder](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005290)  
 
 The app:  
 [https://play.google.com/store/apps/details?id=com.stooltool](https://play.google.com/store/apps/details?id=com.stooltool)   
 
 [Evaluation of a Smartphone Decision-Support Tool for Diarrheal Disease Management in a Resource-Limited Setting](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005290)
 
-The Outbreak Responder is a decision-support and epidemiology platform for use during diarrheal disease outbreaks. There are two components. The first component is a rehydration calculator that automates World Health Organization guidelines for how to assess and rehydrate a patient with diarrheal disease. The calculator is designed to be used in 30 seconds and does not require an account or connectivity. The second component is intended for the Outbreak Response Team that may include epidemiologists, public health administrators, and clinicians. The design leverages geospatial mapping to identify critical actionable data. Outbreak Responder is designed for use in developing countries with high diarrheal disease burden. It was built by an international team of clinical and computer science experts led by Eric Nelson, MD., PhD at Stanford University.
+The Outbreak Responder is a decision-support and epidemiology platform for use during diarrheal disease outbreaks. There are two components. The first component is a rehydration calculator that automates World Health Organization guidelines for how to assess and rehydrate a patient with diarrheal disease. The calculator is designed to be used in 30 seconds and does not require an account or connectivity. The second component is intended for the Outbreak Response Team that may include epidemiologists, public health administrators, and clinicians. The design leverages geospatial mapping to identify critical actionable data. 
 
 ### Geo4LibCamp
 ##### Role: Co-founder/Host
