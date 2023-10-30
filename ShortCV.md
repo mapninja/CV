@@ -64,7 +64,7 @@ On Request
   * Cartographic Metadata Librarian
   * Operations Manager
   * Library Specialist 2
-  * 4X Student Staff
+  * Student Staff
 * Management and oversight of ongoing transfer of Rumsey Collection materials from D. Rumsey's personal studio, to the David Rumsey Map Center. 
 * Management and oversight of the Stanford Map Collection Digital Philanthropy Program
 * Event & Exhibit planning and coordination, including:
