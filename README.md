@@ -106,7 +106,7 @@ Music DJ playing everything from Conlon Nancarrow's experiments with "compositio
 ### Geographic Information Systems Specialist & Instruction Coordinator, Yale University Library, Map Collection
 ##### Sept 2010 - Jan 2015
  * Creation, coordination and teaching of The Yale Map Department's Geospatial Technology Instruction Program
- * Administration of Esri, Google Earth/Maps and CartoDB Enterprise Education Site Licenses
+ * Administration of Esri, Google Earth/Maps, Google Earth Engine and CartoDB Enterprise Education Site Licenses
  * Coordination of student and full-time staff on departmental projects
  * GIS data collection development
  * Technical support for the use of GIS and Geotech in research and teaching.
