@@ -10,7 +10,7 @@ https://orcid.org/0000-0002-4917-3143
 On Request  
 
 ## Professional Objective
-* To allow researchers to do more meaningful work by helping them investigate, quantify and solve spatial problems.
+To enable researchers to do more meaningful work by helping them investigate, quantify and solve spatial problems
 
 ## Expertise
  * 20+ years of experience building and supporting geospatial data and technology services & solutions for research and teaching in R1 universities
@@ -22,7 +22,7 @@ On Request
  * Design and implementation of integrated, multi-user geospatial field data collection systems
  * Digitization of cartographic materials for access and digital applications
  * Event planning and coordination
- * Agile Development practices
+ * Agile development practices
 
 ## Professional Experience  
 ### Assistant Director of Geospatial Collections & Services, Stanford University Libraries
@@ -58,6 +58,7 @@ On Request
 ##### January 2023 - November 2023
 
 * Curate, acquire and manage the historical & antiquarian cartographic special collections of Stanford University
+* Direct international search for new Curator & Head of the David Rumsey Map Center at Stanford Libraries
 * Direct operations & programming for The David Rumsey Map Center at Stanford's Green Library
 * Direct supervision and management of DRMC staff, including:
   * Rare Maps Librarian
@@ -96,26 +97,21 @@ On Request
 
 [https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428](https://zookeeper.stanford.edu/?action=viewDJ&seq=selUser&viewuser=1428)  
 
-
 ----
 ### Geographic Information Systems Specialist & Instruction Coordinator, Yale University Library, Map Collection
 ##### Sept 2010 - Jan 2015
-
 
 ----
 ### Geographic Information Systems Assistant & Instruction Specialist, Yale University Library Map Collection
 ##### Aug 2005 - Sept 2010
 
-
 ----
 ### Research / Teaching Assistant, University of Texas at Dallas
 ##### Aug 2003 to Aug 2005  
 
-
 ----
 ### Owner/Manager, Skin&Bones
 ##### June 1989 – Sept 2004
-
 
 ----
 ## Additional Teaching   
